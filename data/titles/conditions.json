@@ -1,0 +1,527 @@
+{
+  "meta": {
+    "total": 130
+  },
+  "conditions": {
+    "4201": {
+      "condition": "『WEC 2025』中二节奏部門 優勝者「无极」専用称号",
+      "source": "wiki"
+    },
+    "3352": {
+      "condition": "『CHUNITHM PARADISE LOST』/RATING 16.00達成",
+      "source": "wiki"
+    },
+    "5753": {
+      "condition": "クラス認定「The Greek Myths CHALLENGE」クリア※コース配信期間は2022/4/14～6/8、達成者に2022/6/9より配布",
+      "source": "wiki"
+    },
+    "7065": {
+      "condition": "クエスト(バンドリMyGO)",
+      "source": "wiki"
+    },
+    "7083": {
+      "condition": "クエスト(いよわ)",
+      "source": "wiki"
+    },
+    "7141": {
+      "condition": "クエスト(リステ)",
+      "source": "wiki"
+    },
+    "7142": {
+      "condition": "クエスト(周防パトラ)",
+      "source": "wiki"
+    },
+    "7145": {
+      "condition": "クエスト(Episode. _ _ X _ _)",
+      "source": "wiki"
+    },
+    "9089": {
+      "condition": "クエスト(学マス)",
+      "source": "wiki"
+    },
+    "9091": {
+      "condition": "クエスト(リンクラ )",
+      "source": "wiki"
+    },
+    "9093": {
+      "condition": "クエスト(Arcaea Chapter 4)",
+      "source": "wiki"
+    },
+    "9097": {
+      "condition": "クエスト(Nornis)",
+      "source": "wiki"
+    },
+    "9103": {
+      "condition": "クエスト(重音テト)",
+      "source": "wiki"
+    },
+    "9107": {
+      "condition": "クエスト(猫)",
+      "source": "wiki"
+    },
+    "9109": {
+      "condition": "クエスト(cresc.)",
+      "source": "wiki"
+    },
+    "9111": {
+      "condition": "クエスト(神椿市協奏中。)",
+      "source": "wiki"
+    },
+    "9113": {
+      "condition": "クエスト(DECO*27 part2)",
+      "source": "wiki"
+    },
+    "9115": {
+      "condition": "クエスト(ユメステ)",
+      "source": "wiki"
+    },
+    "9334": {
+      "condition": "クエスト(ピノキオピー)",
+      "source": "wiki"
+    },
+    "9710": {
+      "condition": "クエスト(ブルアカ)",
+      "source": "wiki"
+    },
+    "9711": {
+      "condition": "クエスト(ゆこぴ)",
+      "source": "wiki"
+    },
+    "100": {
+      "condition": "総獲得通貨 10,000,000",
+      "source": "wiki"
+    },
+    "9327": {
+      "condition": "『CHUNITHM VERSE』でRATING 16.00達成",
+      "source": "wiki"
+    },
+    "9328": {
+      "condition": "『CHUNITHM VERSE』でRATING 17.00達成",
+      "source": "wiki"
+    },
+    "4203": {
+      "condition": "『WEC 2025』中二节奏部門 エリア大会出場者 限定称号",
+      "source": "wiki"
+    },
+    "7146": {
+      "condition": "クエスト(リステ)",
+      "source": "wiki"
+    },
+    "7147": {
+      "condition": "クエスト(バンドリMyGO)",
+      "source": "wiki"
+    },
+    "7148": {
+      "condition": "クエスト(周防パトラ)",
+      "source": "wiki"
+    },
+    "93": {
+      "condition": "総獲得通貨 3,000,000",
+      "source": "wiki"
+    },
+    "95": {
+      "condition": "総獲得通貨 5,000,000",
+      "source": "wiki"
+    },
+    "98": {
+      "condition": "総獲得通貨 8,000,000",
+      "source": "wiki"
+    },
+    "99": {
+      "condition": "総獲得通貨 9,000,000",
+      "source": "wiki"
+    },
+    "1883": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "1886": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2130": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2133": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2136": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2140": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2145": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2148": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2417": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2423": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2426": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2431": {
+      "condition": "アイテム交換所 20pt(2019/10/24～)",
+      "source": "wiki"
+    },
+    "2657": {
+      "condition": "アイテム交換所 20pt(2020/7/16～)",
+      "source": "wiki"
+    },
+    "2661": {
+      "condition": "アイテム交換所 20pt(2020/7/16～)",
+      "source": "wiki"
+    },
+    "2664": {
+      "condition": "アイテム交換所 20pt(2020/7/16～)",
+      "source": "wiki"
+    },
+    "2668": {
+      "condition": "アイテム交換所 20pt(2020/7/16～)",
+      "source": "wiki"
+    },
+    "2670": {
+      "condition": "アイテム交換所 20pt(2020/7/16～)",
+      "source": "wiki"
+    },
+    "2909": {
+      "condition": "アイテム交換所 20pt(2021/1/21～)",
+      "source": "wiki"
+    },
+    "2913": {
+      "condition": "アイテム交換所 20pt(2021/1/21～)",
+      "source": "wiki"
+    },
+    "2915": {
+      "condition": "アイテム交換所 20pt(2021/1/21～)",
+      "source": "wiki"
+    },
+    "2919": {
+      "condition": "アイテム交換所 20pt(2021/1/21～)",
+      "source": "wiki"
+    },
+    "2923": {
+      "condition": "アイテム交換所 20pt(2021/1/21～)",
+      "source": "wiki"
+    },
+    "3160": {
+      "condition": "アイテム交換所 20pt(2021/11/4～)",
+      "source": "wiki"
+    },
+    "3165": {
+      "condition": "アイテム交換所 20pt(2021/11/4～)",
+      "source": "wiki"
+    },
+    "3167": {
+      "condition": "アイテム交換所 20pt(2021/11/4～)",
+      "source": "wiki"
+    },
+    "3170": {
+      "condition": "アイテム交換所 20pt(2021/11/4～)",
+      "source": "wiki"
+    },
+    "3173": {
+      "condition": "アイテム交換所 20pt(2021/11/4～)",
+      "source": "wiki"
+    },
+    "3373": {
+      "condition": "アイテム交換所 20pt(2021/11/4～)",
+      "source": "wiki"
+    },
+    "3376": {
+      "condition": "アイテム交換所 20pt(2021/11/4～)",
+      "source": "wiki"
+    },
+    "3380": {
+      "condition": "アイテム交換所 20pt(2021/11/4～)",
+      "source": "wiki"
+    },
+    "3383": {
+      "condition": "アイテム交換所 20pt(2022/4/14～)",
+      "source": "wiki"
+    },
+    "3387": {
+      "condition": "アイテム交換所 20pt(2022/4/14～)",
+      "source": "wiki"
+    },
+    "5037": {
+      "condition": "アイテム交換所 20pt(2022/4/14～)",
+      "source": "wiki"
+    },
+    "5044": {
+      "condition": "アイテム交換所 20pt(2022/4/14～)",
+      "source": "wiki"
+    },
+    "5047": {
+      "condition": "アイテム交換所 20pt(2022/10/13～)",
+      "source": "wiki"
+    },
+    "5051": {
+      "condition": "アイテム交換所 20pt(2022/10/13～)",
+      "source": "wiki"
+    },
+    "5554": {
+      "condition": "アイテム交換所 20pt(2022/10/13～)",
+      "source": "wiki"
+    },
+    "5555": {
+      "condition": "アイテム交換所 20pt(2022/10/13～)",
+      "source": "wiki"
+    },
+    "5571": {
+      "condition": "クエスト(プロセカ第2話)",
+      "source": "wiki"
+    },
+    "5574": {
+      "condition": "アイテム交換所 20pt(2023/5/11～)",
+      "source": "wiki"
+    },
+    "5576": {
+      "condition": "アイテム交換所 20pt(2023/5/11～)",
+      "source": "wiki"
+    },
+    "5579": {
+      "condition": "アイテム交換所 20pt(2023/5/11～)",
+      "source": "wiki"
+    },
+    "5752": {
+      "condition": "クエスト(プロセカ第2話)",
+      "source": "wiki"
+    },
+    "6193": {
+      "condition": "クエスト(プロセカ第3話)",
+      "source": "wiki"
+    },
+    "6194": {
+      "condition": "クエスト(プロセカ第3話)",
+      "source": "wiki"
+    },
+    "6195": {
+      "condition": "アイテム交換所 20pt(2023/12/14～)",
+      "source": "wiki"
+    },
+    "6196": {
+      "condition": "アイテム交換所 20pt(2023/12/14～)",
+      "source": "wiki"
+    },
+    "6197": {
+      "condition": "アイテム交換所 20pt(2023/12/14～)",
+      "source": "wiki"
+    },
+    "6198": {
+      "condition": "アイテム交換所 20pt(2023/12/14～)",
+      "source": "wiki"
+    },
+    "6550": {
+      "condition": "アイテム交換所 20pt(2024/??/??～)",
+      "source": "wiki"
+    },
+    "6551": {
+      "condition": "アイテム交換所 20pt(2024/??/??～)",
+      "source": "wiki"
+    },
+    "6552": {
+      "condition": "アイテム交換所 20pt(2024/??/??～)",
+      "source": "wiki"
+    },
+    "6553": {
+      "condition": "アイテム交換所 20pt(2024/??/??～)",
+      "source": "wiki"
+    },
+    "9718": {
+      "condition": "クエスト(観音寺 にこる／Mermaid♡Moment)",
+      "source": "wiki"
+    },
+    "12": {
+      "condition": "2015/07/16～2016/08/03の期間中にmaimaiをプレイ",
+      "source": "wiki"
+    },
+    "15": {
+      "condition": "30日連続ログインボーナス※達成期限は2021年1月21日3:59（実質上20日23:59）まで。*9※条件達成後、翌日以降のログイン時に取得。",
+      "source": "wiki"
+    },
+    "47": {
+      "condition": "RATING 2.00達成",
+      "source": "wiki"
+    },
+    "48": {
+      "condition": "RATING 4.00達成",
+      "source": "wiki"
+    },
+    "49": {
+      "condition": "RATING 7.00達成",
+      "source": "wiki"
+    },
+    "50": {
+      "condition": "RATING 10.00達成",
+      "source": "wiki"
+    },
+    "51": {
+      "condition": "RATING 10.50達成",
+      "source": "wiki"
+    },
+    "52": {
+      "condition": "RATING 11.00達成",
+      "source": "wiki"
+    },
+    "53": {
+      "condition": "RATING 11.50達成",
+      "source": "wiki"
+    },
+    "68": {
+      "condition": "総獲得通貨 5,000",
+      "source": "wiki"
+    },
+    "69": {
+      "condition": "総獲得通貨 10,000",
+      "source": "wiki"
+    },
+    "70": {
+      "condition": "総獲得通貨 20,000",
+      "source": "wiki"
+    },
+    "71": {
+      "condition": "総獲得通貨 30,000",
+      "source": "wiki"
+    },
+    "72": {
+      "condition": "総獲得通貨 40,000",
+      "source": "wiki"
+    },
+    "73": {
+      "condition": "総獲得通貨 50,000",
+      "source": "wiki"
+    },
+    "74": {
+      "condition": "総獲得通貨 60,000",
+      "source": "wiki"
+    },
+    "75": {
+      "condition": "総獲得通貨 70,000",
+      "source": "wiki"
+    },
+    "76": {
+      "condition": "総獲得通貨 80,000",
+      "source": "wiki"
+    },
+    "77": {
+      "condition": "総獲得通貨 90,000",
+      "source": "wiki"
+    },
+    "78": {
+      "condition": "総獲得通貨 100,000",
+      "source": "wiki"
+    },
+    "79": {
+      "condition": "総獲得通貨 150,000",
+      "source": "wiki"
+    },
+    "80": {
+      "condition": "総獲得通貨 200,000",
+      "source": "wiki"
+    },
+    "81": {
+      "condition": "総獲得通貨 250,000",
+      "source": "wiki"
+    },
+    "82": {
+      "condition": "総獲得通貨 300,000",
+      "source": "wiki"
+    },
+    "83": {
+      "condition": "総獲得通貨 350,000",
+      "source": "wiki"
+    },
+    "84": {
+      "condition": "総獲得通貨 400,000",
+      "source": "wiki"
+    },
+    "85": {
+      "condition": "総獲得通貨 450,000",
+      "source": "wiki"
+    },
+    "86": {
+      "condition": "総獲得通貨 500,000",
+      "source": "wiki"
+    },
+    "88": {
+      "condition": "総獲得通貨 700,000",
+      "source": "wiki"
+    },
+    "89": {
+      "condition": "総獲得通貨 800,000",
+      "source": "wiki"
+    },
+    "90": {
+      "condition": "総獲得通貨 900,000",
+      "source": "wiki"
+    },
+    "91": {
+      "condition": "総獲得通貨 1,000,000",
+      "source": "wiki"
+    },
+    "92": {
+      "condition": "総獲得通貨 2,000,000",
+      "source": "wiki"
+    },
+    "1": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    },
+    "2": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    },
+    "3": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    },
+    "4": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    },
+    "5": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    },
+    "6": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    },
+    "7": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    },
+    "8": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    },
+    "9": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    },
+    "10": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    },
+    "11": {
+      "condition": "Aimeを使ってプレイ（最初から所持）",
+      "source": "wiki"
+    }
+  }
+}

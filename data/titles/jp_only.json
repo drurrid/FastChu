@@ -1,0 +1,6815 @@
+{
+  "meta": {
+    "total": 851
+  },
+  "trophies": [
+    {
+      "name": "Here comes a new challenger!",
+      "color": "silver",
+      "condition": "Not On The Sidelines - Street Fighter 6 Main Theme/2人/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900001
+    },
+    {
+      "name": "MIKUMIKUBEAAAAAAAAAAAAAAM",
+      "color": "gold",
+      "condition": "M@GICAL☆CURE! LOVE ♥ SHOT!/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900002
+    },
+    {
+      "name": "Nice boat.*21",
+      "color": "silver",
+      "condition": "ケロ⑨destiny/2人以上/プレイ中に1回MISS",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900003
+    },
+    {
+      "name": "Sight of night I cheer to embrace a magic*8",
+      "color": "silver",
+      "condition": "Burning Hearts ～炎のANGEL～/2人以上/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900004
+    },
+    {
+      "name": "…もうゴール、していいよね ※",
+      "color": "gold",
+      "condition": "鳥の詩/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900005
+    },
+    {
+      "name": "「ありがとう」を浮かべた赤*25",
+      "color": "gold",
+      "condition": "Palette/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900006
+    },
+    {
+      "name": "「わたしのもの そう わたしのもの」",
+      "color": "silver",
+      "condition": "幽霊船戦/2人以上/勝利",
+      "page": "マッチング称号一覧",
+      "section": "勝利 / 1位になる",
+      "id": 900007
+    },
+    {
+      "name": "あなたの好みのタイプになって帰ってきました ※",
+      "color": "gold",
+      "condition": "デリヘル呼んだら君が来た/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900008
+    },
+    {
+      "name": "いっしょにわるいことをしよう*10",
+      "color": "silver",
+      "condition": "ドーナドーナのうた/2人/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900009
+    },
+    {
+      "name": "お やんのか～！？*4",
+      "color": "silver",
+      "condition": "放課後マーメイド/2人以上/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900010
+    },
+    {
+      "name": "おっおー フルコンまだカナ？",
+      "color": "silver",
+      "condition": "お返事まだカナ？おじさん構文！/2人以上/プレイ中に1回MISS",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900011
+    },
+    {
+      "name": "おやすみなさい。*22",
+      "color": "normal",
+      "condition": "MARENOL/2人/デンジャースキル発動",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900012
+    },
+    {
+      "name": "お前は誰だ？*3",
+      "color": "silver",
+      "condition": "前前前世/2人以上/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900013
+    },
+    {
+      "name": "お金ちょうだい、お金☆",
+      "color": "silver",
+      "condition": "ONLY YOUR STARS!（Trickstar Ver.）/2人以上/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900014
+    },
+    {
+      "name": "くつじょくです、はずかしめをうけました*17",
+      "color": "normal",
+      "condition": "とまどい→レシピ/2人以上/デンジャースキル発動",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900015
+    },
+    {
+      "name": "ずっと ずっと ミライまで*26",
+      "color": "gold",
+      "condition": "Hand in Hand/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900016
+    },
+    {
+      "name": "そう君が悪いんだよ 僕だけを見ててよ─。*19",
+      "color": "normal",
+      "condition": "少女レイ/2人以上/デンジャースキル発動",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900017
+    },
+    {
+      "name": "それが悪夢の始まりだった*20",
+      "color": "normal",
+      "condition": "スーサイドパレヱド/2人以上/デンジャースキル発動",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900018
+    },
+    {
+      "name": "それは、必然で偶然の出会いでした ※",
+      "color": "gold",
+      "condition": "Clover Heart's/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900019
+    },
+    {
+      "name": "でももう一人で涙を流さないよ",
+      "color": "gold",
+      "condition": "ウニ/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900020
+    },
+    {
+      "name": "ならば自由に踊った者勝ちでしょう？",
+      "color": "gold",
+      "condition": "ビビデバ/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900021
+    },
+    {
+      "name": "ねえ言ったよね？レーティングなんて関係ないってさ",
+      "color": "gold",
+      "condition": "美少女無罪♡パイレーツ/2人/BASICでMASTERのRANK SSSに勝利する",
+      "page": "マッチング称号一覧",
+      "section": "勝利 / 1位になる",
+      "id": 900022
+    },
+    {
+      "name": "ねぎだけでじゅうぶんですよ*24",
+      "color": "silver",
+      "condition": "StargazeR/BASIC/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900023
+    },
+    {
+      "name": "ふ、ふふｗ俺自重ｗｗｗ",
+      "color": "silver",
+      "condition": "ウサテイ/ALL JUSTICE達成",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900024
+    },
+    {
+      "name": "まだまだです やかましいです",
+      "color": "silver",
+      "condition": "称号「おっおー フルコンまだカナ？」をセットしたプレイヤーとマッチング",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900025
+    },
+    {
+      "name": "もしフルコンボしなかったら木の下に埋めてもらっても構わないよ",
+      "color": "silver",
+      "condition": "キルミーのベイベー！/2人/プレイ中に1回MISS",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900026
+    },
+    {
+      "name": "よろしくお願いするよ！",
+      "color": "silver",
+      "condition": "BRAND NEW STARS!! (ALKALOID ver.)/2人以上/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900027
+    },
+    {
+      "name": "エヴリディ・ヤングライフ・ジュネス！",
+      "color": "gold",
+      "condition": "※現在新規入手不可",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900028
+    },
+    {
+      "name": "ケンカすな～！*18",
+      "color": "normal",
+      "condition": "だじゃれくりえぃしょん/2人以上/デンジャースキル発動",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900029
+    },
+    {
+      "name": "ゴブリンか？",
+      "color": "silver",
+      "condition": "1クレジット中、全てRightfullyをプレイ",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900030
+    },
+    {
+      "name": "ゴブリンではないのか",
+      "color": "silver",
+      "condition": "Rightfully/称号「ゴブリンか？」をセットしたプレイヤーとマッチング",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900031
+    },
+    {
+      "name": "チェンジ！ チェンジ！ チェンジ！ No,39",
+      "color": "silver",
+      "condition": "デリヘル呼んだら君が来た/2人以上/プレイ中に1回MISS",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900032
+    },
+    {
+      "name": "チョ～うざぁい！",
+      "color": "silver",
+      "condition": "BRAND NEW STARS!! (ALKALOID ver.)/2人以上/プレイ中に1回MISS",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900033
+    },
+    {
+      "name": "ニ人でいよう ※",
+      "color": "gold",
+      "condition": "夜に駆ける/2人/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900034
+    },
+    {
+      "name": "バッカお前……俺がついてるだろ！",
+      "color": "silver",
+      "condition": "FLOWER/2人以上/プレイ中に1回MISS",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900035
+    },
+    {
+      "name": "ババンババンバンBURN！",
+      "color": "platina",
+      "condition": "咲かせよ 沸かせよ バンバンBURN！/MASTER/4人/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900036
+    },
+    {
+      "name": "ババーン",
+      "color": "silver",
+      "condition": "称号「もしフルコンボしなかったら木の下に埋めてもらっても構わないよ」をセットしたプレイヤーとマッチング",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900037
+    },
+    {
+      "name": "ピーンと来た！ ※",
+      "color": "gold",
+      "condition": "ザ・ライブ革命でSHOW！/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900038
+    },
+    {
+      "name": "フルチェインして、デレさせる",
+      "color": "gold",
+      "condition": "Paradoxes/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900039
+    },
+    {
+      "name": "ヤバイですね☆※",
+      "color": "silver",
+      "condition": "称号「ヤバイわよ！」をセットしたプレイヤーとマッチング",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900040
+    },
+    {
+      "name": "ヤバイわよ！",
+      "color": "normal",
+      "condition": "※現在新規入手不可",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900041
+    },
+    {
+      "name": "三倍アイスクリーム*29",
+      "color": "platina",
+      "condition": "taboo tears you up/MASTER/3人/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900042
+    },
+    {
+      "name": "俺の嫁フリーズ ※",
+      "color": "gold",
+      "condition": "ラブって♡ジュエリー♪えんじぇる☆ブレイク！！/3人/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900043
+    },
+    {
+      "name": "優劣等無いさ回れ踊れ*5",
+      "color": "silver",
+      "condition": "ブリキノダンス/2人以上/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900044
+    },
+    {
+      "name": "元気が出ないときは一緒にやろう*6",
+      "color": "silver",
+      "condition": "Melody！/2人以上/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900045
+    },
+    {
+      "name": "同じ阿呆なら回さにゃ損々*9",
+      "color": "silver",
+      "condition": "夢花火/2人以上/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900046
+    },
+    {
+      "name": "団結！かるてっと ※",
+      "color": "gold",
+      "condition": "異世界かるてっと/4人/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900047
+    },
+    {
+      "name": "幼馴染とオタク友達と実妹は全て共存可能なのだよ！",
+      "color": "gold",
+      "condition": "1番輝く星/3人/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900048
+    },
+    {
+      "name": "悲しいことに 飯が美味い",
+      "color": "silver",
+      "condition": "ブタサンダー/MASTER以下全て/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900049
+    },
+    {
+      "name": "昨日の喧嘩ごめんね*11",
+      "color": "silver",
+      "condition": "L'épilogue/2人/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900050
+    },
+    {
+      "name": "煽っていくStyle",
+      "color": "silver",
+      "condition": "おこちゃま戦争/2人以上/RANK SSSで1位になる",
+      "page": "マッチング称号一覧",
+      "section": "勝利 / 1位になる",
+      "id": 900051
+    },
+    {
+      "name": "王様になってみたい",
+      "color": "silver",
+      "condition": "スーパーヒーロー/2人以上/勝利",
+      "page": "マッチング称号一覧",
+      "section": "勝利 / 1位になる",
+      "id": 900052
+    },
+    {
+      "name": "白黒はっきりつける程度の能力*7",
+      "color": "silver",
+      "condition": "華鳥風月/2人以上/プレイ",
+      "page": "マッチング称号一覧",
+      "section": "プレイ",
+      "id": 900053
+    },
+    {
+      "name": "第3芸能課",
+      "color": "silver",
+      "condition": "よりみちリトルスター/EXPERT/RANK S達成",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900054
+    },
+    {
+      "name": "第3芸能課だよ",
+      "color": "silver",
+      "condition": "よりみちリトルスター/称号「第3芸能課」をセットしたプレイヤーと店内マッチング",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900055
+    },
+    {
+      "name": "覚醒の刻はまだ早い",
+      "color": "silver",
+      "condition": "厨病激発ボーイ/2人以上/プレイ中に1回MISS",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900056
+    },
+    {
+      "name": "観鈴ちん、ぴんち",
+      "color": "silver",
+      "condition": "鳥の詩/2人以上/プレイ中に1回MISS",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900057
+    },
+    {
+      "name": "誓って殺しはやってません*23",
+      "color": "silver",
+      "condition": "ばかみたい【Taxi Driver Edition】/4人/プレイ中に1回MISS",
+      "page": "マッチング称号一覧",
+      "section": "1回MISS / 強制終了",
+      "id": 900058
+    },
+    {
+      "name": "鋼のシスコン番長※",
+      "color": "silver",
+      "condition": "称号「エヴリディ・ヤングライフ！ジュネス！」をセットしたプレイヤーとマッチング",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900059
+    },
+    {
+      "name": "飛び出せ ゲッター！*28",
+      "color": "platina",
+      "condition": "STORM/MASTER/3人/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900060
+    },
+    {
+      "name": "高難易度パスワード突破おめでとう",
+      "color": "silver",
+      "condition": "称号「687970657261726f7573616c」をセットしたプレイヤーとマッチング",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900061
+    },
+    {
+      "name": "魔法少女※",
+      "color": "silver",
+      "condition": "称号「僕と契約して、魔法少女になってよ！」をセットしたプレイヤーとマッチング",
+      "page": "マッチング称号一覧",
+      "section": "称号連動",
+      "id": 900062
+    },
+    {
+      "name": "（＾ω＾）おーお↓ーお↑ーお↓ーお↑ーお↓ーお↑ーお↓ーぉおー ※",
+      "color": "gold",
+      "condition": "ゴーストルール/FULL CHAIN達成",
+      "page": "マッチング称号一覧",
+      "section": "FULL CHAIN",
+      "id": 900063
+    },
+    {
+      "name": "( ＾▽＾)σ) Д`)",
+      "color": "gold",
+      "condition": "総獲得通貨 6,000,000",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "総獲得通貨系",
+      "id": 900064
+    },
+    {
+      "name": "(CHUNITHM LUMINOUSの累計ログイン関連称号全て)",
+      "color": "platina",
+      "condition": "七元徳(七つの美徳とも呼ばれる)の英名。意味はそれぞれ謙譲(Humility)、救恤(Charity)、感謝(Gratitude)*45、忍耐(Patience)、純潔(Chastity)、節制(Temperance)、勤勉(Diligence)。VERSEにて追加で配布された称号の「Sacred Halo」は「聖なる光輪」という意味であり、これは七元徳それぞれに対応する天使が存在する(=一般的な天使のイメージとして頭上に光輪がある)ことが由来と思われる。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "称号元ネタまとめ",
+      "id": 900065
+    },
+    {
+      "name": "(CHUNITHM SUNの累計ログイン関連称号全て)",
+      "color": "platina",
+      "condition": "太陽系の惑星(地球(the Earth)含む)の英名。水星(Mercury)から始まり50日刻みで太陽(SUN)から遠ざかっていく。冥王星(Pluto)は2006年に太陽系から除外されているためか、冥王星のみ他の称号と違いあえて50日刻みではない位置(407日目)に配置されている。LUMINOUSにて追加で配布された称号の「Solar System」は、太陽系そのものの英名。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "称号元ネタまとめ",
+      "id": 900066
+    },
+    {
+      "name": "(CHUNITHM VERSEの累計ログイン関連称号全て)",
+      "color": "platina",
+      "condition": "世界四大宝石の名前。X-VERSEにて追加で配布された称号の「Precious Stone」は「貴石」という意味。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "称号元ネタまとめ",
+      "id": 900067
+    },
+    {
+      "name": "(CHUNITHM X-VERSEの累計ログイン関連称号全て)",
+      "color": "platina",
+      "condition": "北斗七星(おおぐま座の腰から尻尾にかけての部分)を構成する恒星の英名。50日刻みで腰から尻尾へと辿っていく。351日ログイン称号のアルコル(Alcor)はミザール(Mizar)のすぐそばで輝く小さな星であり「死兆星」と呼ばれている。Mateにて追加で配布された称号の「Polar Star」は北極星の英名であり、ドゥーベ(Dubhe)とメラク(Merak)の直線上に存在する星であることから、古来より北の方角を見つけることに用いられてきた。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "称号元ネタまとめ",
+      "id": 900068
+    },
+    {
+      "name": "(※称号名不明)",
+      "color": "",
+      "condition": "課題曲マップ全クリア後のマップ23（1,000マス?）*13",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "初代宇宙マップ",
+      "id": 900069
+    },
+    {
+      "name": "(※称号名不明)*12",
+      "color": "gold",
+      "condition": "課題曲マップ全クリア後のマップ19（7,995マス）",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "初代宇宙マップ",
+      "id": 900070
+    },
+    {
+      "name": "(コラボイベント名)",
+      "color": "silver",
+      "condition": "クエスト(STAR以降に開催（復刻）されたコラボイベント)※例外については下記を参照",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900071
+    },
+    {
+      "name": "(バージョン名*44) 店舗大会 優勝",
+      "color": "gold",
+      "condition": "店舗大会優勝",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900072
+    },
+    {
+      "name": "10/22",
+      "color": "",
+      "condition": "楽曲追加",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "お知らせ一覧",
+      "id": 900073
+    },
+    {
+      "name": "10/29",
+      "color": "",
+      "condition": "KoP予選曲追加",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "お知らせ一覧",
+      "id": 900074
+    },
+    {
+      "name": "10/8",
+      "color": "",
+      "condition": "課題曲追加",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "お知らせ一覧",
+      "id": 900075
+    },
+    {
+      "name": "20267/2",
+      "color": "",
+      "condition": "CHUNITHMMate",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "お知らせ一覧",
+      "id": 900076
+    },
+    {
+      "name": "500円",
+      "color": "silver",
+      "condition": "『業 -善なる神とこの世の悪について-』MASTERの実装から初AJの達成までにかかった金額。荒場 流子／NEW GAMEのSTORYでもネタにされていた。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "称号元ネタまとめ",
+      "id": 900077
+    },
+    {
+      "name": "500円*38",
+      "color": "",
+      "condition": "生放送用筐体専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "正規手段のオンライン筐体では完全に入手不可能な称号",
+      "id": 900078
+    },
+    {
+      "name": "C U again!!",
+      "color": "rainbow",
+      "condition": "Linked GATE UNIVERSE Linked LEVEL：Vでクリア※達成者に2026/7/7に配布*20",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "それ以外の期間限定イベント / チュウニズムクエスト",
+      "id": 900079
+    },
+    {
+      "name": "CHUNITHMer (バージョン名*43)",
+      "color": "silver",
+      "condition": "店舗大会参加",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900080
+    },
+    {
+      "name": "Drive Your Dreams.",
+      "color": "silver",
+      "condition": "プリウスコラボマップ2完走",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900081
+    },
+    {
+      "name": "JOJIGOD",
+      "color": "platina",
+      "condition": "クエスト(HIMEHINA)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900082
+    },
+    {
+      "name": "KOP4th International ver. BEST8",
+      "color": "",
+      "condition": "KING of Performai The 4thInternational ver. 予選ランキング上位8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900083
+    },
+    {
+      "name": "KOP4th International ver. CHAMPION",
+      "color": "",
+      "condition": "KING of Performai The 4thInternational ver. 優勝者「ＪＡＫＡＤＳ」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900084
+    },
+    {
+      "name": "KOP5th International ver. BEST8",
+      "color": "",
+      "condition": "KING of Performai The 5thInternational ver. 予選ランキング上位8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900085
+    },
+    {
+      "name": "KOP5th International ver. CHAMPION",
+      "color": "",
+      "condition": "KING of Performai The 5thInternational ver. 優勝者「ＪＡＫＡＤＳ」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900086
+    },
+    {
+      "name": "KOP6th International ver. BEST8",
+      "color": "",
+      "condition": "KING of Performai The 6thInternational ver. 予選ランキング上位8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900087
+    },
+    {
+      "name": "KOP6th International ver. CHAMPION",
+      "color": "",
+      "condition": "KING of Performai The 6thInternational ver. 優勝者「Ｂｌｅｒ」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900088
+    },
+    {
+      "name": "KOP7th International ver. BEST8",
+      "color": "",
+      "condition": "KING of Performai The 7thInternational ver. 予選ランキング上位8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900089
+    },
+    {
+      "name": "KOP7th International ver. CHAMPION",
+      "color": "",
+      "condition": "KING of Performai The 7thInternational ver. 優勝者「ＩＮＦ．」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900090
+    },
+    {
+      "name": "KoP6th 現地勢",
+      "color": "gold",
+      "condition": "KING of Performai The 6th 会場観戦チケット特典シリアルコードで入手",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900091
+    },
+    {
+      "name": "KoP7th 現地勢",
+      "color": "gold",
+      "condition": "KING of Performai The 7th 会場観戦チケット特典シリアルコードで入手",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900092
+    },
+    {
+      "name": "LET'S ROCK!",
+      "color": "platina",
+      "condition": "クエスト(GGST)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900093
+    },
+    {
+      "name": "MISSION in progress*16",
+      "color": "silver",
+      "condition": "「導師 ミィム・ミクラー」ミッションでバルーン80個入手*17※ミッション出現期間は2023/12/14~2024/1/24",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "それ以外の期間限定イベント / チュウニズムクエスト",
+      "id": 900094
+    },
+    {
+      "name": "MISSION still in progress",
+      "color": "silver",
+      "condition": "「カイナン・メルヴィアス」ミッションでバルーン100個入手*18※ミッション出現期間は2026/3/19~2026/5/13",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "それ以外の期間限定イベント / チュウニズムクエスト",
+      "id": 900095
+    },
+    {
+      "name": "ONGEKI RATING MASTER*21",
+      "color": "",
+      "condition": "オンゲキでRATING17.00を達成した状態でCHUNITHMをプレイ※達成期限は2022/10/13～2025/3/26まで、受取期限は2026/01/31 23:59まで",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "他ゲーム連動",
+      "id": 900096
+    },
+    {
+      "name": "Polar Star",
+      "color": "rainbow",
+      "condition": "『Benetnasch - 350days of X-VERSE』の称号を入手したプレイヤーに配布",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "ログイン日数系",
+      "id": 900097
+    },
+    {
+      "name": "The \"ELITE\" of LUMINOUS",
+      "color": "rainbow",
+      "condition": "『CHUNITHM LUMINOUS PLUS』終了時までにエリートポイントランキングの100位以内にランクインしたプレイヤーに配布*6",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900098
+    },
+    {
+      "name": "The \"ELITE\" of SUN",
+      "color": "rainbow",
+      "condition": "『CHUNITHM SUN PLUS』終了時までにエリートポイントランキングの100位以内にランクインしたプレイヤーに配布*5",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900099
+    },
+    {
+      "name": "The \"ELITE\" of VERSE",
+      "color": "rainbow",
+      "condition": "『CHUNITHM X-VERSE-X』終了時までにエリートポイントランキングの100位以内にランクインしたプレイヤーに配布*7",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900100
+    },
+    {
+      "name": "WEC2025 全国总决赛选",
+      "color": "platina",
+      "condition": "『WEC 2025』中二节奏部門 全国大会参加者 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "海外版限定称号",
+      "id": 900101
+    },
+    {
+      "name": "vanitas vanitatum et omnia vanitas.",
+      "color": "platina",
+      "condition": "クエスト(ブルアカ第二弾)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900102
+    },
+    {
+      "name": "▼/ ゲキチュウマイ開発スタッフ /▲*40",
+      "color": "silver",
+      "condition": "譜面ボーイズ専用称号*41",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "正規手段のオンライン筐体では完全に入手不可能な称号",
+      "id": 900103
+    },
+    {
+      "name": "『KING of Performai 2020』 チャレンジャー",
+      "color": "platina",
+      "condition": "『KING of Performai 2020』 CHUNITHM部門エリア大会進出者16名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900104
+    },
+    {
+      "name": "『KING of Performai 2020』 チャンピオン",
+      "color": "",
+      "condition": "KING of Performai 2020 CHUNITHM部門優勝者「すとら」 専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900105
+    },
+    {
+      "name": "『KING of Performai 2020』 ファイナリスト",
+      "color": "",
+      "condition": "KING of Performai 2020 CHUNITHM部門全国決勝大会進出者4名（+1名？） 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900106
+    },
+    {
+      "name": "『KING of Performai The 3rd』 チャンピオン",
+      "color": "",
+      "condition": "KING of Performai The 3rd CHUNITHM部門優勝者「JT」 専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900107
+    },
+    {
+      "name": "『KING of Performai The 3rd』 ファイナリスト",
+      "color": "",
+      "condition": "KING of Performai The 3rd CHUNITHM部門全国決勝大会進出者8名（+1名） 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900108
+    },
+    {
+      "name": "『KING of Performai The 4th』 チャンピオン",
+      "color": "",
+      "condition": "KING of Performai The 4th CHUNITHM部門優勝者「すとら」 専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900109
+    },
+    {
+      "name": "『KING of Performai The 4th』 ファイナリスト",
+      "color": "",
+      "condition": "KING of Performai The 4th CHUNITHM部門全国決勝大会進出者8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900110
+    },
+    {
+      "name": "『KING of Performai The 5th』 LCQ出場",
+      "color": "rainbow",
+      "condition": "KING of Performai 5th CHUNITHM部門LCQ出場者(LCQ優勝者を除く) 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900111
+    },
+    {
+      "name": "『KING of Performai The 5th』 チャンピオン",
+      "color": "",
+      "condition": "KING of Performai The 5th CHUNITHM部門優勝者「str」 専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900112
+    },
+    {
+      "name": "『KING of Performai The 5th』 チャンピオン (maimai)",
+      "color": "",
+      "condition": "KING of Performai The 5th maimai でらっくす部門優勝者「YOSHI☆NX」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900113
+    },
+    {
+      "name": "『KING of Performai The 5th』 チャンピオン (オンゲキ)",
+      "color": "",
+      "condition": "KING of Performai The 5th オンゲキ部門優勝者「TSUBAKI.」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900114
+    },
+    {
+      "name": "『KING of Performai The 5th』 ファイナリスト",
+      "color": "",
+      "condition": "KING of Performai The 5th CHUNITHM部門全国決勝大会進出者8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900115
+    },
+    {
+      "name": "『KING of Performai The 5th』 ファイナリスト (maimai)",
+      "color": "",
+      "condition": "KING of Performai The 5th maimai でらっくす部門全国決勝大会進出者8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900116
+    },
+    {
+      "name": "『KING of Performai The 5th』 ファイナリスト (オンゲキ)",
+      "color": "",
+      "condition": "KING of Performai The 5th オンゲキ部門全国決勝大会進出者8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900117
+    },
+    {
+      "name": "『KING of Performai The 6th』 LCQ出場",
+      "color": "rainbow",
+      "condition": "KING of Performai The 6th CHUNITHM部門 LCQ出場者(LCQ優勝者を除く) 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900118
+    },
+    {
+      "name": "『KING of Performai The 6th』 チャンピオン",
+      "color": "",
+      "condition": "KING of Performai The 6th CHUNITHM部門優勝者「str」 専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900119
+    },
+    {
+      "name": "『KING of Performai The 6th』 チャンピオン (maimai)",
+      "color": "",
+      "condition": "KING of Performai The 6th maimai でらっくす部門優勝者「YOSHI☆NX」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900120
+    },
+    {
+      "name": "『KING of Performai The 6th』 チャンピオン (オンゲキ)",
+      "color": "",
+      "condition": "KING of Performai The 6th オンゲキ部門優勝者「けにちの」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900121
+    },
+    {
+      "name": "『KING of Performai The 6th』 ファイナリスト",
+      "color": "",
+      "condition": "KING of Performai The 6th CHUNITHM部門全国決勝大会進出者8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900122
+    },
+    {
+      "name": "『KING of Performai The 6th』 ファイナリスト (maimai)",
+      "color": "",
+      "condition": "KING of Performai The 6th maimai でらっくす部門全国決勝大会進出者8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900123
+    },
+    {
+      "name": "『KING of Performai The 6th』 ファイナリスト (オンゲキ)",
+      "color": "",
+      "condition": "KING of Performai The 6th オンゲキ部門全国決勝大会進出者8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900124
+    },
+    {
+      "name": "『KING of Performai The 7th』 LCQ出場",
+      "color": "rainbow",
+      "condition": "KING of Performai The 7th CHUNITHM部門 LCQ出場者(LCQ優勝者を除く) 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900125
+    },
+    {
+      "name": "『KING of Performai The 7th』 TOP100",
+      "color": "platina",
+      "condition": "『KING of Performai The 7th』 CHUNITHM部門オンライン予選上位100名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900126
+    },
+    {
+      "name": "『KING of Performai The 7th』 チャンピオン",
+      "color": "",
+      "condition": "KING of Performai The 7th CHUNITHM部門優勝者「str」 専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900127
+    },
+    {
+      "name": "『KING of Performai The 7th』 チャンピオン (maimai)",
+      "color": "",
+      "condition": "KING of Performai The 7th maimai でらっくす部門優勝者「たけるん」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900128
+    },
+    {
+      "name": "『KING of Performai The 7th』 チャンピオン (オンゲキ)",
+      "color": "",
+      "condition": "KING of Performai The 7th オンゲキ部門優勝者「ちはる」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900129
+    },
+    {
+      "name": "『KING of Performai The 7th』 ファイナリスト",
+      "color": "",
+      "condition": "KING of Performai The 7th CHUNITHM部門全国決勝大会進出者8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900130
+    },
+    {
+      "name": "『KING of Performai The 7th』 ファイナリスト (maimai)",
+      "color": "",
+      "condition": "KING of Performai The 7th maimai でらっくす部門全国決勝大会進出者8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900131
+    },
+    {
+      "name": "『KING of Performai The 7th』 ファイナリスト (オンゲキ)",
+      "color": "",
+      "condition": "KING of Performai The 7th オンゲキ部門全国決勝大会進出者8名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900132
+    },
+    {
+      "name": "『オンゲキ』のロケテストに参加したよ！",
+      "color": "silver",
+      "condition": "2017/12/15～2017/12/17にオンゲキロケテスト（GiGO秋葉原3号館）に参加※2018/5/12～2018/5/20開催分で獲得できません",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "他ゲーム連動",
+      "id": 900133
+    },
+    {
+      "name": "『第五回 天下一音ゲ祭』 チャンピオン",
+      "color": "rainbow",
+      "condition": "第五回 天下一音ゲ祭 CHUNITHM部門優勝者「まてぞん」 専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900134
+    },
+    {
+      "name": "『第五回 天下一音ゲ祭』 ファイナリスト",
+      "color": "platina",
+      "condition": "『第五回 天下一音ゲ祭』 CHUNITHM部門全国頂上決戦進出者11名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900135
+    },
+    {
+      "name": "『第四回 天下一音ゲ祭』 チャンピオン",
+      "color": "rainbow",
+      "condition": "第四回 天下一音ゲ祭 CHUNITHM部門優勝者「S.Fran」 専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900136
+    },
+    {
+      "name": "『第四回 天下一音ゲ祭』 ファイナリスト",
+      "color": "platina",
+      "condition": "『第四回 天下一音ゲ祭』 CHUNITHM部門全国頂上決戦進出者11名 限定称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900137
+    },
+    {
+      "name": "【優雅変換（エレガントチート）】",
+      "color": "platina",
+      "condition": "クエスト(悪役令嬢転生おじさん)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900138
+    },
+    {
+      "name": "あなたにとってはご褒美でしょ？",
+      "color": "platina",
+      "condition": "クエスト(ロシデレ)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900139
+    },
+    {
+      "name": "いいなぁ⋯⋯あの人生",
+      "color": "platina",
+      "condition": "VERSE ep.∞エリア3完走",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "VERSE ep.∞マップ",
+      "id": 900140
+    },
+    {
+      "name": "うるせぇよ天才 今いいトコなんだよ",
+      "color": "platina",
+      "condition": "クエスト(ブルーロック)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900141
+    },
+    {
+      "name": "きっと届くはず きっと見えるはず",
+      "color": "platina",
+      "condition": "クエスト(プロセカ劇場版)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900142
+    },
+    {
+      "name": "ここが真実だったんだ・・・",
+      "color": "platina",
+      "condition": "バトルランクが煌1に到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900143
+    },
+    {
+      "name": "この曲なに？",
+      "color": "platina",
+      "condition": "クエスト(ミルサブ)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900144
+    },
+    {
+      "name": "こんなに練習しているのに上手くならないはずない",
+      "color": "platina",
+      "condition": "クエスト(ユーフォニアム)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900145
+    },
+    {
+      "name": "ざわ… ざわ… ざわ… ざわ… ざわ… ざわ…",
+      "color": "gold",
+      "condition": "総獲得通貨 7,000,000",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "総獲得通貨系",
+      "id": 900146
+    },
+    {
+      "name": "しがりこが勝つよ。",
+      "color": "platina",
+      "condition": "クエスト(あやかき)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900147
+    },
+    {
+      "name": "じゃーん！音ゲーマーのかわいいぼくでーす！",
+      "color": "platina",
+      "condition": "クエスト(ぷにる)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900148
+    },
+    {
+      "name": "そして、次の曲が始まるのです",
+      "color": "gold",
+      "condition": "クエスト(ユーフォニアム)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900149
+    },
+    {
+      "name": "そんなハッピーエンドが私は好きなんです。",
+      "color": "platina",
+      "condition": "クエスト(ブルアカ第二弾)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900150
+    },
+    {
+      "name": "たくさん子供を産んで、幸せな家庭を築こうね",
+      "color": "platina",
+      "condition": "夜を見守る吸血鬼騎士",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "文面が変更された称号",
+      "id": 900151
+    },
+    {
+      "name": "ね、混沌でしょ～",
+      "color": "silver",
+      "condition": "Twitter企画「称号募集2020」配布シリアルコード※2020/9/15～10/19まで公式Twitter上で配布",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "それ以外の期間限定イベント / チュウニズムクエスト",
+      "id": 900152
+    },
+    {
+      "name": "ひたむきなる人生の主役",
+      "color": "platina",
+      "condition": "クエスト(Re:AcT)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900153
+    },
+    {
+      "name": "ぴょんぴょん。",
+      "color": "platina",
+      "condition": "クエスト(ブルアカ第二弾)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900154
+    },
+    {
+      "name": "ぽやぽやのたぬき",
+      "color": "platina",
+      "condition": "クエスト(あやかき)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900155
+    },
+    {
+      "name": "まず食生活の改善!! 生活リズムの見直し!!そして適切な運動!!",
+      "color": "platina",
+      "condition": "クエスト(ダンジョン飯)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900156
+    },
+    {
+      "name": "わ わかんないっピ・・・",
+      "color": "platina",
+      "condition": "クエスト(タコピーの原罪)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900157
+    },
+    {
+      "name": "イルカさーん！",
+      "color": "platina",
+      "condition": "クエスト(GGST)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900158
+    },
+    {
+      "name": "イロドリミドリ Live!",
+      "color": "silver",
+      "condition": "クエスト(イロドリミドリ Live!)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "それ以外の期間限定イベント / チュウニズムクエスト",
+      "id": 900159
+    },
+    {
+      "name": "インビテーション※色は取得した難易度による",
+      "color": "",
+      "condition": "インビテーション / ALL JUSTICE*42",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "正規手段のオンライン筐体では完全に入手不可能な称号",
+      "id": 900160
+    },
+    {
+      "name": "オンゲキであかり・柚子・葵のNカードを解花させて筐体をゲットしよう！",
+      "color": "silver",
+      "condition": "2018/8/9～2018/10/24期間にオンゲキをプレイ",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "他ゲーム連動",
+      "id": 900161
+    },
+    {
+      "name": "ゴゴゴゴゴゴ……",
+      "color": "silver",
+      "condition": "総獲得通貨 600,000",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "総獲得通貨系",
+      "id": 900162
+    },
+    {
+      "name": "チュウニの為なら何でもするんだよ",
+      "color": "platina",
+      "condition": "バトルランクがエリートに到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900163
+    },
+    {
+      "name": "チルノ",
+      "color": "silver",
+      "condition": "クエスト(東方Project/AMAZON PLUS～PARADISE LOST)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900164
+    },
+    {
+      "name": "ハチミツください",
+      "color": "platina",
+      "condition": "クエスト(モンハンワイルズ)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900165
+    },
+    {
+      "name": "ピースピース。",
+      "color": "platina",
+      "condition": "クエスト(ブルアカ第二弾)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900166
+    },
+    {
+      "name": "ブックオフなのに本ねぇじゃん！",
+      "color": "platina",
+      "condition": "クエスト(東方×BOOKOFF)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900167
+    },
+    {
+      "name": "プレイが誰よりも天才！",
+      "color": "platina",
+      "condition": "クエスト(メダリスト)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900168
+    },
+    {
+      "name": "マキナ死す",
+      "color": "platina",
+      "condition": "クエスト(ミルサブ)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900169
+    },
+    {
+      "name": "マッチング界のカリスマ",
+      "color": "platina",
+      "condition": "全国対戦で譜面ボーイズとマッチングする",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900170
+    },
+    {
+      "name": "メンカタカラメヤサイダブルニンニクアブラマシマシ",
+      "color": "platina",
+      "condition": "クエスト(サノバウィッチ)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900171
+    },
+    {
+      "name": "上手に焼けました！",
+      "color": "platina",
+      "condition": "クエスト(モンハンワイルズ)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900172
+    },
+    {
+      "name": "世界を大いに盛り上げるための涼宮ハルヒの団",
+      "color": "platina",
+      "condition": "クエスト(涼宮ハルヒ)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900173
+    },
+    {
+      "name": "今、この瞬間を大切に",
+      "color": "platina",
+      "condition": "クエスト(リンクラ (105期))",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900174
+    },
+    {
+      "name": "伊吹 萃香＆星熊 勇儀",
+      "color": "silver",
+      "condition": "クエスト(東方Project/AMAZON～PARADISE LOST)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900175
+    },
+    {
+      "name": "体は課金でできている…！",
+      "color": "silver",
+      "condition": "カードメイカーでペンギンメダルを100枚入手",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "CARD MAKER連動",
+      "id": 900176
+    },
+    {
+      "name": "侵掠如火",
+      "color": "gold",
+      "condition": "イベント1000位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900177
+    },
+    {
+      "name": "俺が独り占めしたいじゃん",
+      "color": "platina",
+      "condition": "バトルランクがエリートに到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900178
+    },
+    {
+      "name": "俺の集中線がやばい",
+      "color": "platina",
+      "condition": "バトルランクが燦3に到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900179
+    },
+    {
+      "name": "俺はもう一段上に行きたい",
+      "color": "platina",
+      "condition": "バトルランクが想1に到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900180
+    },
+    {
+      "name": "俺は常に君たちの上にいるんで",
+      "color": "platina",
+      "condition": "バトルランクがエリートに到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900181
+    },
+    {
+      "name": "偏差値15.00",
+      "color": "silver",
+      "condition": "偏差値16.00",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "文面が変更された称号",
+      "id": 900182
+    },
+    {
+      "name": "偏差値16.00",
+      "color": "silver",
+      "condition": "AnotherVisionへの挑戦 ～ 光吉猛修編 BASICの謎クリア※SUNで文面変更。変更前のものについては後述。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "それ以外の期間限定イベント / チュウニズムクエスト",
+      "id": 900183
+    },
+    {
+      "name": "偏差値∞",
+      "color": "silver",
+      "condition": "AnotherVisionへの挑戦 ～ 光吉猛修編 EXPERTの謎クリア",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "それ以外の期間限定イベント / チュウニズムクエスト",
+      "id": 900184
+    },
+    {
+      "name": "光炎万丈",
+      "color": "platina",
+      "condition": "イベント100位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900185
+    },
+    {
+      "name": "全部ぶち壊していくからね",
+      "color": "platina",
+      "condition": "バトルランクがエリートに到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900186
+    },
+    {
+      "name": "八雲 紫＆八雲 藍＆橙",
+      "color": "silver",
+      "condition": "クエスト(東方Project/STAR PLUS～CRYSTAL)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900187
+    },
+    {
+      "name": "博麗 霊夢＆東風谷 早苗",
+      "color": "silver",
+      "condition": "クエスト(東方Project/AMAZON～CRYSTAL)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900188
+    },
+    {
+      "name": "博麗 霊夢＆霧雨 魔理沙",
+      "color": "silver",
+      "condition": "クエスト(東方Project/STAR～CRYSTAL)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900189
+    },
+    {
+      "name": "変態という名の紳士",
+      "color": "platina",
+      "condition": "クエスト(ギャグマンガ日和)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900190
+    },
+    {
+      "name": "夜を見守る吸血鬼騎士",
+      "color": "platina",
+      "condition": "クエスト(あんスタ)※X-VERSEで文面変更。変更前のものについては後述。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900191
+    },
+    {
+      "name": "幸せを錯覚してた",
+      "color": "platina",
+      "condition": "バトルランクが煌3に到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900192
+    },
+    {
+      "name": "思ったよりヤバいのが出てきたな どうすんだこれ",
+      "color": "gold",
+      "condition": "クエスト(ダンジョン飯)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900193
+    },
+    {
+      "name": "想帝",
+      "color": "platina",
+      "condition": "イベント100位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900194
+    },
+    {
+      "name": "想帝 -真-",
+      "color": "rainbow",
+      "condition": "イベント10位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900195
+    },
+    {
+      "name": "想帝 -覇-",
+      "color": "rainbow",
+      "condition": "想帝「第7回 皇帝イベント」1位入賞者「JEL」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900196
+    },
+    {
+      "name": "暁帝",
+      "color": "platina",
+      "condition": "イベント100位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900197
+    },
+    {
+      "name": "暁帝 -真-",
+      "color": "rainbow",
+      "condition": "イベント10位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900198
+    },
+    {
+      "name": "暁帝 -覇-",
+      "color": "rainbow",
+      "condition": "暁帝「第2回 皇帝イベント」1位入賞者「む～らび」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900199
+    },
+    {
+      "name": "暗いよー！！怖いよー！！",
+      "color": "platina",
+      "condition": "クエスト(葬送のフリーレン)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900200
+    },
+    {
+      "name": "東（京都）大（田区）一のずのー",
+      "color": "silver",
+      "condition": "AnotherVisionへの挑戦 ～ 光吉猛修編 Re:MASTERの謎クリア",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "それ以外の期間限定イベント / チュウニズムクエスト",
+      "id": 900201
+    },
+    {
+      "name": "海老天の尻尾",
+      "color": "platina",
+      "condition": "クエスト(ミルサブ)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900202
+    },
+    {
+      "name": "火焔猫 燐＆霊烏路 空",
+      "color": "silver",
+      "condition": "クエスト(東方Project/CRYSTAL～PARADISE LOST)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900203
+    },
+    {
+      "name": "炎帝",
+      "color": "rainbow",
+      "condition": "イベント10位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900204
+    },
+    {
+      "name": "無(理のない程度の)課金*22",
+      "color": "silver",
+      "condition": "カードメイカーでペンギンメダルを10枚入手",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "CARD MAKER連動",
+      "id": 900205
+    },
+    {
+      "name": "無（理のない程度の）課金",
+      "color": "normal",
+      "condition": "ソーシャルゲームにおける課金プレイヤー達の言い訳の一種。「俺（私）無課金勢だから」と言ってる人の指す無課金は大体これ。詭弁である",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "称号元ネタまとめ",
+      "id": 900206
+    },
+    {
+      "name": "煌帝",
+      "color": "platina",
+      "condition": "イベント100位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900207
+    },
+    {
+      "name": "煌帝 -真-",
+      "color": "rainbow",
+      "condition": "イベント10位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900208
+    },
+    {
+      "name": "煌帝 -覇-",
+      "color": "rainbow",
+      "condition": "煌帝「第3回 皇帝イベント」1位入賞者「姫坂乃愛」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900209
+    },
+    {
+      "name": "燦帝",
+      "color": "platina",
+      "condition": "イベント100位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900210
+    },
+    {
+      "name": "燦帝 -真-",
+      "color": "rainbow",
+      "condition": "イベント10位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900211
+    },
+    {
+      "name": "燦帝 -覇-",
+      "color": "rainbow",
+      "condition": "燦帝「第1回 皇帝イベント」1位入賞者「オトヲ＠イベ乙！」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900212
+    },
+    {
+      "name": "王になりたい",
+      "color": "platina",
+      "condition": "バトルランクが燦1に到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900213
+    },
+    {
+      "name": "産まれた時から虹なんで",
+      "color": "platina",
+      "condition": "バトルランクが想3に到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900214
+    },
+    {
+      "name": "盟帝",
+      "color": "platina",
+      "condition": "イベント100位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900215
+    },
+    {
+      "name": "盟帝 -真-",
+      "color": "rainbow",
+      "condition": "イベント10位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900216
+    },
+    {
+      "name": "盟帝 -覇-",
+      "color": "rainbow",
+      "condition": "盟帝「第9回 皇帝イベント」1位入賞者「るるしあ＠盟帝」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900217
+    },
+    {
+      "name": "真・炎帝",
+      "color": "rainbow",
+      "condition": "焔の祝祭 『The Emperor of Blaze』1位入賞者「Haisoku」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900218
+    },
+    {
+      "name": "空間震",
+      "color": "platina",
+      "condition": "クエスト(デアラV)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900219
+    },
+    {
+      "name": "第1回 皇帝イベント 入賞",
+      "color": "gold",
+      "condition": "イベント1000位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900220
+    },
+    {
+      "name": "第2回 皇帝イベント 入賞",
+      "color": "gold",
+      "condition": "イベント1000位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900221
+    },
+    {
+      "name": "第3回 皇帝イベント 入賞",
+      "color": "gold",
+      "condition": "イベント1000位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900222
+    },
+    {
+      "name": "第4回 皇帝イベント 入賞",
+      "color": "gold",
+      "condition": "イベント1000位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900223
+    },
+    {
+      "name": "第5回 皇帝イベント 入賞",
+      "color": "gold",
+      "condition": "イベント1000位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900224
+    },
+    {
+      "name": "第6回 皇帝イベント 入賞",
+      "color": "gold",
+      "condition": "イベント1000位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900225
+    },
+    {
+      "name": "第7回 皇帝イベント 入賞",
+      "color": "gold",
+      "condition": "イベント1000位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900226
+    },
+    {
+      "name": "第8回 皇帝イベント 入賞",
+      "color": "gold",
+      "condition": "イベント1000位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900227
+    },
+    {
+      "name": "第9回 皇帝イベント 入賞",
+      "color": "gold",
+      "condition": "イベント1000位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900228
+    },
+    {
+      "name": "筐体前に立てば痩せる",
+      "color": "platina",
+      "condition": "バトルランクが燦2に到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900229
+    },
+    {
+      "name": "約束された勝利の象徴",
+      "color": "platina",
+      "condition": "クエスト(ブルアカ第二弾)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900230
+    },
+    {
+      "name": "紡いだ絆が一番の宝だっ！！",
+      "color": "platina",
+      "condition": "クエスト(英傑大戦)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900231
+    },
+    {
+      "name": "耀帝",
+      "color": "platina",
+      "condition": "イベント100位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900232
+    },
+    {
+      "name": "耀帝 -真-",
+      "color": "rainbow",
+      "condition": "イベント10位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900233
+    },
+    {
+      "name": "耀帝 -覇-",
+      "color": "rainbow",
+      "condition": "耀帝「第6回 皇帝イベント」1位入賞者「＃はやなかすほふ」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900234
+    },
+    {
+      "name": "脳内でAJ出てる",
+      "color": "platina",
+      "condition": "バトルランクが想2に到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900235
+    },
+    {
+      "name": "自分の道を、世界に示せ！",
+      "color": "platina",
+      "condition": "クエスト(Project ONSOKU)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900236
+    },
+    {
+      "name": "覚帝",
+      "color": "platina",
+      "condition": "イベント100位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900237
+    },
+    {
+      "name": "覚帝 -真-",
+      "color": "rainbow",
+      "condition": "イベント10位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900238
+    },
+    {
+      "name": "覚帝 -覇-",
+      "color": "rainbow",
+      "condition": "覚帝「第8回 皇帝イベント」1位入賞者「まさとし」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900239
+    },
+    {
+      "name": "言ったでしょう？残りの人生、わたくしに下さいと",
+      "color": "platina",
+      "condition": "クエスト(バンドリAve)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900240
+    },
+    {
+      "name": "該当なし",
+      "color": "gold",
+      "condition": "Twitter企画「称号募集2020」配布シリアルコード※2020/9/15～10/19まで公式Twitter上で配布",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "それ以外の期間限定イベント / チュウニズムクエスト",
+      "id": 900241
+    },
+    {
+      "name": "課金は家賃をこえなきゃ大丈夫*23",
+      "color": "silver",
+      "condition": "カードメイカーでペンギンメダルを50枚入手",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "CARD MAKER連動",
+      "id": 900242
+    },
+    {
+      "name": "課金は家賃を超えなきゃ大丈夫",
+      "color": "silver",
+      "condition": "声優の大久保瑠美氏のX(旧Twitter)での発言。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "称号元ネタまとめ",
+      "id": 900243
+    },
+    {
+      "name": "輝帝",
+      "color": "platina",
+      "condition": "イベント100位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900244
+    },
+    {
+      "name": "輝帝 -真-",
+      "color": "rainbow",
+      "condition": "イベント10位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900245
+    },
+    {
+      "name": "輝帝 -覇-",
+      "color": "rainbow",
+      "condition": "輝帝「第4回 皇帝イベント」1位入賞者「れもちゃんマン」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900246
+    },
+    {
+      "name": "辿り着いてしまうんですね、我々は",
+      "color": "platina",
+      "condition": "バトルランクが煌2に到達",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦",
+      "id": 900247
+    },
+    {
+      "name": "閃帝",
+      "color": "platina",
+      "condition": "イベント100位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900248
+    },
+    {
+      "name": "閃帝 -真-",
+      "color": "rainbow",
+      "condition": "イベント10位以内入賞",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900249
+    },
+    {
+      "name": "閃帝 -覇-",
+      "color": "rainbow",
+      "condition": "閃帝「第5回 皇帝イベント」1位入賞者「かしわぎ」専用称号",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国対戦イベント",
+      "id": 900250
+    },
+    {
+      "name": "電子の歌姫",
+      "color": "silver",
+      "condition": "2016年8月31日～10月5日の期間中にProject DIVA Arcade Future Toneを3回プレイ",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "他ゲーム連動",
+      "id": 900251
+    },
+    {
+      "name": "霧雨 魔理沙＆アリス・マーガトロイド＆パチュリー・ノーレッジ",
+      "color": "silver",
+      "condition": "クエスト(東方Project/STAR PLUS～AMAZON PLUS)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900252
+    },
+    {
+      "name": "音ゲー界のカリスマ",
+      "color": "rainbow",
+      "condition": "『KING of Performai』全国決勝大会2回進出者*36および、一部公式生放送番組出演プレイヤー*37 限定称号※その他、全国大会用支給Aimeカードのデフォルト称号としてセットされていた。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "全国大会関連称号",
+      "id": 900253
+    },
+    {
+      "name": "﹅(^-^)人(^-^)人( ^-^)ノ",
+      "color": "gold",
+      "condition": "総獲得通貨 4,000,000",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "総獲得通貨系",
+      "id": 900254
+    },
+    {
+      "name": "＃ゆるっと蘭阜日和",
+      "color": "platina",
+      "condition": "クエスト(あやかき)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900255
+    },
+    {
+      "name": "（PLUSまでの通常配信曲名）",
+      "color": "silver",
+      "condition": "（曲名）/BASIC/ALL JUSTICE達成*24",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "廃止された称号",
+      "id": 900256
+    },
+    {
+      "name": "（初代～PLUSの宇宙マップ12～22の獲得称号全て）",
+      "color": "platina",
+      "condition": "ニコニコ動画において動画につけられる「タグ」より。インターネット上では一般的に使われている内容の称号も多い。特に明確な元ネタがあるものは下に改めて明記する。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "称号元ネタまとめ",
+      "id": 900257
+    },
+    {
+      "name": "（初代～PLUSの宇宙マップ1～11の獲得称号全て）",
+      "color": "platina",
+      "condition": "男性ファッション雑誌『メンズナックル』掲載の「ストリートスナップ」各キャッチコピーより。この中でも一番最初に獲得できた「ガイアが俺にもっと輝けと囁いている」は特に知名度があると思われる。",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "称号元ネタまとめ",
+      "id": 900258
+    },
+    {
+      "name": "４ QUADRUPLE BONUS △□‪‪‪✕‬‬○",
+      "color": "platina",
+      "condition": "クエスト(Project DIVA)",
+      "page": "新規取得不可称号一覧(その他)",
+      "section": "コラボイベント関連",
+      "id": 900259
+    },
+    {
+      "name": "(」・ω・)」うー！(／・ω・)／にゃー！",
+      "color": "normal",
+      "condition": "太陽曰く燃えよカオス/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900260
+    },
+    {
+      "name": "(自称)特別捜査隊",
+      "color": "silver",
+      "condition": "Pursuing My True Self/Your Affection (Daisuke Asakura Remix)/Signs Of Love (\"Never More\" ver.)/Dance!/MASTER以下全て/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900261
+    },
+    {
+      "name": "3000円払えば無料で10連まわせる",
+      "color": "gold",
+      "condition": "ガチャガチャきゅ～と・ふぃぎゅ@メイト/30回プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900262
+    },
+    {
+      "name": "ATTACKも無ェ！MISSも無ェ！ ※",
+      "color": "silver",
+      "condition": "俺ら東京さ行ぐだ/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900263
+    },
+    {
+      "name": "Are You Ready STEREO-TYPES ??",
+      "color": "platina",
+      "condition": "SEVENTH HAVEN/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900264
+    },
+    {
+      "name": "Blessing software",
+      "color": "silver",
+      "condition": "カラフル。/2人以上で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900265
+    },
+    {
+      "name": "E・M・T",
+      "color": "silver",
+      "condition": "Redo/MASTER以下全て/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900266
+    },
+    {
+      "name": "FULL CHAIN CHRONICLE ※",
+      "color": "gold",
+      "condition": "MY LIBERATION/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900267
+    },
+    {
+      "name": "HAT TRICK",
+      "color": "platina",
+      "condition": "Bull's Eye/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900268
+    },
+    {
+      "name": "I can't speak English.",
+      "color": "gold",
+      "condition": "ニホンゴワカリマセン/2人以上で店内マッチング/MASTER/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900269
+    },
+    {
+      "name": "IKZO",
+      "color": "platina",
+      "condition": "俺ら東京さ行ぐだ/MASTER/4人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900270
+    },
+    {
+      "name": "JS研",
+      "color": "silver",
+      "condition": "コレカラ/4人で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900271
+    },
+    {
+      "name": "Leashed. Luminous. Love.",
+      "color": "gold",
+      "condition": "L.L.L./MASTER/2人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900272
+    },
+    {
+      "name": "S2CA・トライバースト ※",
+      "color": "gold",
+      "condition": "Vitalization/3人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900273
+    },
+    {
+      "name": "SEGAのゲームは人生の役に立つんだ…！",
+      "color": "silver",
+      "condition": "story/MASTER以下全て/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900274
+    },
+    {
+      "name": "SIRIUS",
+      "color": "platina",
+      "condition": "MIRU key way/MASTER/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900275
+    },
+    {
+      "name": "SOS団 ※",
+      "color": "gold",
+      "condition": "ハレ晴レユカイ/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900276
+    },
+    {
+      "name": "SUGOI DEKAI",
+      "color": "gold",
+      "condition": "なだめスかし Negotiation（TVsize）/MASTER/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900277
+    },
+    {
+      "name": "TGK！",
+      "color": "platina",
+      "condition": "ファッとして桃源郷/MASTER/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900278
+    },
+    {
+      "name": "introductory chapter",
+      "color": "normal",
+      "condition": "WHITE ALBUM Live at Campus Fes/届かない恋 '13/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900279
+    },
+    {
+      "name": "overwrite my whole life*16",
+      "color": "silver",
+      "condition": "BURST THE GRAVITY/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900280
+    },
+    {
+      "name": "……そんな恥ずかしい名前の人、しらない*23",
+      "color": "silver",
+      "condition": "ヒトリゴト/2人以上で店内マッチング/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900281
+    },
+    {
+      "name": "……ロリータかな",
+      "color": "silver",
+      "condition": "Kadenz/3人で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900282
+    },
+    {
+      "name": "…堪忍してつかあさい",
+      "color": "silver",
+      "condition": "ブルー・フィールド/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900283
+    },
+    {
+      "name": "⊂ニニニ ( ^ω^ ) ニ⊃光る風を追い越したらー ⊂ニニニ ( ^ω^ ) ニ⊃君にきっと逢えるねー",
+      "color": "platina",
+      "condition": "ハッピー☆マテリアル/MASTER/SPEED 1/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900284
+    },
+    {
+      "name": "⑪",
+      "color": "silver",
+      "condition": "だんご大家族/11回プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900285
+    },
+    {
+      "name": "△",
+      "color": "platina",
+      "condition": "SHINY DAYS/MASTER/3人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900286
+    },
+    {
+      "name": "『 』に敗北の二文字はない",
+      "color": "silver",
+      "condition": "オラシオン/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900287
+    },
+    {
+      "name": "あぁ^～心がぴょんぴょんするんじゃぁ^～ ※",
+      "color": "silver",
+      "condition": "Daydream café/ノーポイッ!/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900288
+    },
+    {
+      "name": "あいよ！*21",
+      "color": "silver",
+      "condition": "One In A Billion/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900289
+    },
+    {
+      "name": "あたしって、ほんとバカ",
+      "color": "silver",
+      "condition": "Magia/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900290
+    },
+    {
+      "name": "あでぃおすぐらっしあー",
+      "color": "platina",
+      "condition": "Uncontrollable/MASTER/4人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900291
+    },
+    {
+      "name": "あと5分いや10分待たせて ※",
+      "color": "silver",
+      "condition": "おちゃめ機能/EXPERT/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900292
+    },
+    {
+      "name": "あなたが思うより健康です",
+      "color": "gold",
+      "condition": "うっせぇわ/MASTER/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900293
+    },
+    {
+      "name": "ありうべからざる今を見ろ",
+      "color": "normal",
+      "condition": "Long shot/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900294
+    },
+    {
+      "name": "ある？ダースで服買われたこと",
+      "color": "silver",
+      "condition": "全力バタンキュー/12回プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900295
+    },
+    {
+      "name": "あんた、名は。",
+      "color": "silver",
+      "condition": "POP TEAM EPIC/「君の名は。」の称号をセットしたプレイヤーと店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/称号連動)",
+      "id": 900296
+    },
+    {
+      "name": "あーそういうことね 完全に理解した",
+      "color": "silver",
+      "condition": "POP TEAM EPIC/MASTER/SPEED SONIC/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900297
+    },
+    {
+      "name": "いいえ先輩、私達の聖戦（ケンカ）です！",
+      "color": "silver",
+      "condition": "ストライク・ザ・ブラッド/称号「ここから先は、第四真祖 (オレ) の戦争 (ケンカ) だ！」の称号をセットしたプレイヤーと店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/称号連動)",
+      "id": 900298
+    },
+    {
+      "name": "いつもニコニコあなたの隣に這いよる混沌、ニャルラトホテプ！ ※",
+      "color": "gold",
+      "condition": "太陽曰く燃えよカオス/2人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900299
+    },
+    {
+      "name": "いやっほーぅ！ 国崎最高ー！ ※",
+      "color": "gold",
+      "condition": "夏影/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900300
+    },
+    {
+      "name": "うぐぅ",
+      "color": "silver",
+      "condition": "Last regrets/MASTER以下全て/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900301
+    },
+    {
+      "name": "うに",
+      "color": "platina",
+      "condition": "Pilgrimage/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900302
+    },
+    {
+      "name": "うまだっち*3",
+      "color": "silver",
+      "condition": "1クレジット中、全てうまぴょい伝説をプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900303
+    },
+    {
+      "name": "うまぴょい うまぴょい",
+      "color": "silver",
+      "condition": "うまぴょい伝説/「うまだっち」の称号をセットしたプレイヤーと店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/称号連動)",
+      "id": 900304
+    },
+    {
+      "name": "うまるーん ※",
+      "color": "silver",
+      "condition": "かくしん的☆めたまるふぉ～ぜっ!/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900305
+    },
+    {
+      "name": "うん、大好きさ！",
+      "color": "silver",
+      "condition": "チャージマン研！/称号「お菓子好きかい？」をセットしたプレイヤーと店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/称号連動)",
+      "id": 900306
+    },
+    {
+      "name": "うんうん、それもまたアイカツ！だね",
+      "color": "silver",
+      "condition": "アイドル活動！オンパレード！ver./2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900307
+    },
+    {
+      "name": "おとぎ話は、ひとつじゃない。",
+      "color": "silver",
+      "condition": "euphoric field（English）/EXPERT/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900308
+    },
+    {
+      "name": "おめでとう ※",
+      "color": "gold",
+      "condition": "残酷な天使のテーゼ/4人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900309
+    },
+    {
+      "name": "おやおや",
+      "color": "platina",
+      "condition": "Deep in Abyss/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900310
+    },
+    {
+      "name": "お前たち！よくもこんな〇〇譜面を！",
+      "color": "platina",
+      "condition": "チャージマン研！/殺人レコード恐怖のメロディ/MASTER/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900311
+    },
+    {
+      "name": "お菓子好きかい？*30",
+      "color": "gold",
+      "condition": "チャージマン研！/ADVANCED/3人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900312
+    },
+    {
+      "name": "が、がお…",
+      "color": "silver",
+      "condition": "夏影/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900313
+    },
+    {
+      "name": "きゅうそくせんこー",
+      "color": "gold",
+      "condition": "ブルー・フィールド/MASTER/SPEED 9/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900314
+    },
+    {
+      "name": "くぁｗせｄｒｆｔｇｙふじこｌｐ；＠：「」 ※",
+      "color": "silver",
+      "condition": "クローバー♣かくめーしょん/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900315
+    },
+    {
+      "name": "ここから先は、第四真祖 (オレ) の戦争 (ケンカ) だ！ ※",
+      "color": "silver",
+      "condition": "ストライク・ザ・ブラッド/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900316
+    },
+    {
+      "name": "ここから始めましょう、イチから――いいえ、ゼロから！",
+      "color": "platina",
+      "condition": "Redo/ULTIMA/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900317
+    },
+    {
+      "name": "ここがあの女のハウスね ※",
+      "color": "gold",
+      "condition": "WHITE ALBUM Live at Campus Fes/3人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900318
+    },
+    {
+      "name": "この拳もッ！ 命もッ！ シンフォギアだッ！！！",
+      "color": "platina",
+      "condition": "Vitalization/虹色のフリューゲル/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900319
+    },
+    {
+      "name": "これが私の全力全開",
+      "color": "platina",
+      "condition": "NEVER SURRENDER/MASTER以下全て/ALL JUSITCE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900320
+    },
+    {
+      "name": "これが運命石の扉(シュタインズ・ゲート)の選択だ！",
+      "color": "silver",
+      "condition": "Hacking to the Gate/スカイクラッドの観測者/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900321
+    },
+    {
+      "name": "これは、ゲームであっても、遊びではない",
+      "color": "silver",
+      "condition": "crossing field/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900322
+    },
+    {
+      "name": "ごめんね何もできなくて",
+      "color": "silver",
+      "condition": "God knows.../2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900323
+    },
+    {
+      "name": "さぁ、賭け狂いましょう",
+      "color": "silver",
+      "condition": "Deal with the devil/2人で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900324
+    },
+    {
+      "name": "さあ、ゲームをはじめよう ※",
+      "color": "silver",
+      "condition": "オラシオン/This game/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900325
+    },
+    {
+      "name": "さすがはお兄様です！",
+      "color": "platina",
+      "condition": "grilletto/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900326
+    },
+    {
+      "name": "さてはアンチだなオメー",
+      "color": "silver",
+      "condition": "POP TEAM EPIC/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900327
+    },
+    {
+      "name": "すっごくぷるぷるにゃん♡*22",
+      "color": "platina",
+      "condition": "青春はNon-Stop！/MASTER/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900328
+    },
+    {
+      "name": "すっごーい！たーのしー！ ※",
+      "color": "gold",
+      "condition": "ようこそジャパリパークへ/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900329
+    },
+    {
+      "name": "すばらしく運が無いな、君は（笑）*26",
+      "color": "silver",
+      "condition": "絶世スターゲイト/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900330
+    },
+    {
+      "name": "すばら！ ※",
+      "color": "silver",
+      "condition": "Futuristic Player/EXPERT/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900331
+    },
+    {
+      "name": "そういうふうにできている*18",
+      "color": "silver",
+      "condition": "プレパレード/オレンジ/ホーリーナイト/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900332
+    },
+    {
+      "name": "そのアルカナは示した…",
+      "color": "silver",
+      "condition": "全ての人の魂の戦い (Daisuke Asakura Remix)/13回プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900333
+    },
+    {
+      "name": "それと便座カバー*29",
+      "color": "gold",
+      "condition": "だんご大家族/2人以上で店内マッチング/MASTER/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900334
+    },
+    {
+      "name": "そんなことより野球しようぜ！ ※",
+      "color": "gold",
+      "condition": "かっとばせ！未来へ/ALL FOR ONE★/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900335
+    },
+    {
+      "name": "そんなオカルトありえません",
+      "color": "platina",
+      "condition": "MIRACLE RUSH/MASTER/SPEED 1/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900336
+    },
+    {
+      "name": "ただの人間には興味ありません。この中に宇宙人、未来人、異世界人、超能力者がいたら、あたしのところに来なさい。以上。",
+      "color": "silver",
+      "condition": "ハレ晴レユカイ/EXPERT/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900337
+    },
+    {
+      "name": "たーる！ ※",
+      "color": "silver",
+      "condition": "Pilgrimage/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900338
+    },
+    {
+      "name": "だから私たちは、かけがえのない一人を選ぶ ※",
+      "color": "gold",
+      "condition": "FLY two BLUE/2人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900339
+    },
+    {
+      "name": "だが男だ。 ※",
+      "color": "silver",
+      "condition": "Hacking to the Gate/2人で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900340
+    },
+    {
+      "name": "ちょろゴン ※",
+      "color": "silver",
+      "condition": "めいど・うぃず・どらごんず♥/BASIC/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900341
+    },
+    {
+      "name": "つまりどういうことだってばよ",
+      "color": "silver",
+      "condition": "ブルーバード/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900342
+    },
+    {
+      "name": "つよくてNEW GAME!",
+      "color": "platina",
+      "condition": "SAKURAスキップ/Now Loading!!!!/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900343
+    },
+    {
+      "name": "てめーら！元気ですかーーーー！！",
+      "color": "silver",
+      "condition": "H-A-J-I-M-A-R-I-U-T-A-!!/MASTER以下全て/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900344
+    },
+    {
+      "name": "でもまぁ、騒ぐほどでもないか…",
+      "color": "platina",
+      "condition": "ようこそジャパリパークへ/MASTER/4人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900345
+    },
+    {
+      "name": "どう!?最高に悪魔的な行為でしょうっ!!",
+      "color": "gold",
+      "condition": "ガヴリールドロップキック/2人で店内マッチング/BASICでMASTERのRANK SSSに勝利",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900346
+    },
+    {
+      "name": "どうなの！？*12",
+      "color": "silver",
+      "condition": "1クレジット中、全てBlooming Villain (ATLUS Konishi Remix)をプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900347
+    },
+    {
+      "name": "どこで壊れたの",
+      "color": "silver",
+      "condition": "フレンズ/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900348
+    },
+    {
+      "name": "どやんすー どやんすー！？ ※",
+      "color": "silver",
+      "condition": "徒花ネクロマンシー/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900349
+    },
+    {
+      "name": "どろり濃厚ピーチ味 ※",
+      "color": "silver",
+      "condition": "夏影/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900350
+    },
+    {
+      "name": "なぜ休日に仕事をせねばならんのじゃ！？*5",
+      "color": "silver",
+      "condition": "1クレジット中、全て今宵mofumofu!!をプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900351
+    },
+    {
+      "name": "はい おしまい",
+      "color": "normal",
+      "condition": "いつかオトナになれるといいね。/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900352
+    },
+    {
+      "name": "はい、サイドチェストーーー！",
+      "color": "gold",
+      "condition": "お願いマッスル/MASTER/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900353
+    },
+    {
+      "name": "はむ",
+      "color": "silver",
+      "condition": "楔/MASTER/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900354
+    },
+    {
+      "name": "ばくおんで名前が聞こえません",
+      "color": "platina",
+      "condition": "FEEL×ALIVE/ぶぉん！ぶぉん！らいど・おん！/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900355
+    },
+    {
+      "name": "ひみつのメモリー ※",
+      "color": "gold",
+      "condition": "フレンズ/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900356
+    },
+    {
+      "name": "ぴっこり",
+      "color": "silver",
+      "condition": "鳥の詩/夏影/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900357
+    },
+    {
+      "name": "ふたりが交わした<約束>と世界を滅ぼした始まりの罪 ※",
+      "color": "gold",
+      "condition": "Ray ―はじまりのセカイ― (クロニクルアレンジver.)/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900358
+    },
+    {
+      "name": "へんたいふしんしゃさん",
+      "color": "platina",
+      "condition": "Mirage Game/MASTER/SPEED 1/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900359
+    },
+    {
+      "name": "ほむらでいいわ ※",
+      "color": "gold",
+      "condition": "コネクト/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900360
+    },
+    {
+      "name": "ぼっち・で・ちゅうにずむ ※",
+      "color": "silver",
+      "condition": "ギターと孤独と蒼い惑星/1人/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900361
+    },
+    {
+      "name": "まきますか まきませんか ※",
+      "color": "silver",
+      "condition": "禁じられた遊び/EXPERT/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900362
+    },
+    {
+      "name": "まったく、小学生は最高だぜ!!",
+      "color": "silver",
+      "condition": "Get goal!/Rolling Rolling!/MASTER/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900363
+    },
+    {
+      "name": "みゃー姉！みゃー姉！みゃー姉！みゃー姉！*6",
+      "color": "silver",
+      "condition": "1クレジット中、全て気ままな天使たちをプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900364
+    },
+    {
+      "name": "みんななかよくプレイしましょう",
+      "color": "silver",
+      "condition": "This game/2人以上で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900365
+    },
+    {
+      "name": "もっとちゃんと愛でなさい！",
+      "color": "platina",
+      "condition": "ガチャガチャきゅ～と・ふぃぎゅ@メイト/MASTER/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900366
+    },
+    {
+      "name": "もっと先へ――『加速』したくはないか、少年",
+      "color": "silver",
+      "condition": "BURST THE GRAVITY/SPEED SONIC/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900367
+    },
+    {
+      "name": "やい家畜どもッ！*24",
+      "color": "silver",
+      "condition": "Falling Roses/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900368
+    },
+    {
+      "name": "やらないcar ※",
+      "color": "gold",
+      "condition": "輪舞-revolution/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900369
+    },
+    {
+      "name": "や・・・や、やりました！大成功です大成功！ ※",
+      "color": "gold",
+      "condition": "絶世スターゲイト/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900370
+    },
+    {
+      "name": "ゆあが代わりにやります！",
+      "color": "silver",
+      "condition": "かーてんこーる!!!!!/2人で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900371
+    },
+    {
+      "name": "わかります。",
+      "color": "platina",
+      "condition": "Star Divine/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900372
+    },
+    {
+      "name": "わたし、何もあげられるもの無いからチュウニズムの前で歌うよ ※",
+      "color": "silver",
+      "condition": "Jumping!!/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900373
+    },
+    {
+      "name": "わにゃ",
+      "color": "silver",
+      "condition": "羽ばたきのバースデイ/MASTER/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900374
+    },
+    {
+      "name": "んなぁ～…",
+      "color": "silver",
+      "condition": "Deep in Abyss/MASTER以下全て/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900375
+    },
+    {
+      "name": "アイカツエンジニア",
+      "color": "platina",
+      "condition": "アイドル活動！オンパレード！ver./ダイヤモンドハッピー/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900376
+    },
+    {
+      "name": "アイドルとは死ぬことと見つけたり",
+      "color": "normal",
+      "condition": "目覚めRETURNER/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900377
+    },
+    {
+      "name": "アキラッキー",
+      "color": "gold",
+      "condition": "Love your enemies/2人で店内マッチング/BASICでMASTERのRANK SSSに勝利",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900378
+    },
+    {
+      "name": "アナタ、怠惰デスね？",
+      "color": "silver",
+      "condition": "Redo/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900379
+    },
+    {
+      "name": "アレガ・デネブ・アルタイル・ベガ ※",
+      "color": "gold",
+      "condition": "君の知らない物語/4人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900380
+    },
+    {
+      "name": "ウニですが、何か？",
+      "color": "silver",
+      "condition": "がんばれ！蜘蛛子さんのテーマ/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900381
+    },
+    {
+      "name": "エイサァァ～イ ハラマスコ～～イ ※",
+      "color": "gold",
+      "condition": "POP TEAM EPIC/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900382
+    },
+    {
+      "name": "エル・プサイ・コンガリィ",
+      "color": "silver",
+      "condition": "Hacking to the Gate/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900383
+    },
+    {
+      "name": "エル・プサイ・コングルゥ",
+      "color": "silver",
+      "condition": "Hacking to the Gate/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900384
+    },
+    {
+      "name": "エヴリディ・ヤングライフ！ジュネス！ ※",
+      "color": "gold",
+      "condition": "Signs Of Love (\"Never More\" ver.)/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900385
+    },
+    {
+      "name": "オイ・・・ガキ共・・・これは・・・どういう状況だ？",
+      "color": "silver",
+      "condition": "紅蓮の弓矢/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900386
+    },
+    {
+      "name": "オハヨーハヨー*10",
+      "color": "silver",
+      "condition": "1クレジット中、全て＊ハロー、プラネット。をプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900387
+    },
+    {
+      "name": "オバマが到☆来",
+      "color": "silver",
+      "condition": "BURST THE GRAVITY/称号「overwrite my whole life」の称号をセットしたプレイヤーと店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/称号連動)",
+      "id": 900388
+    },
+    {
+      "name": "カーニバルだよ",
+      "color": "silver",
+      "condition": "SAVIOR OF SONG/4人で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900389
+    },
+    {
+      "name": "キミはチュウニズムが得意なフレンズなんだね！*19",
+      "color": "silver",
+      "condition": "ようこそジャパリパークへ/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900390
+    },
+    {
+      "name": "キュッとシメっぞ",
+      "color": "silver",
+      "condition": "Dance!/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900391
+    },
+    {
+      "name": "キンッキンッキンッキンッ",
+      "color": "silver",
+      "condition": "夢想歌/MASTER/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900392
+    },
+    {
+      "name": "クマクマクマクマクマ～！ ※",
+      "color": "gold",
+      "condition": "Dance!/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900393
+    },
+    {
+      "name": "クラナドは人生",
+      "color": "silver",
+      "condition": "だんご大家族/MASTER以下全て/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900394
+    },
+    {
+      "name": "グッバイ",
+      "color": "normal",
+      "condition": "Pretender/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900395
+    },
+    {
+      "name": "ゲスの極み",
+      "color": "gold",
+      "condition": "キラーボール/2人で店内マッチング/BASICでMASTERのRANK SSSに勝利",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900396
+    },
+    {
+      "name": "ゴッデス・オブ・卑怯",
+      "color": "gold",
+      "condition": "Heart To Heart/2人で店内マッチング/BASICでMASTERのRANK SSSに勝利",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900397
+    },
+    {
+      "name": "サービス、サービス♪ ※",
+      "color": "gold",
+      "condition": "魂のルフラン/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900398
+    },
+    {
+      "name": "シャミ子が悪いんだよ",
+      "color": "normal",
+      "condition": "町かどタンジェント/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900399
+    },
+    {
+      "name": "シャミ子は悪くないよ",
+      "color": "silver",
+      "condition": "町かどタンジェント/称号「シャミ子が悪いんだよ」をセットしたプレイヤーと店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/称号連動)",
+      "id": 900400
+    },
+    {
+      "name": "シュバフィーン！",
+      "color": "platina",
+      "condition": "ひだまりデイズ/SPEED SONIC/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900401
+    },
+    {
+      "name": "ジャッジメントですの！",
+      "color": "normal",
+      "condition": "sister's noise/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900402
+    },
+    {
+      "name": "スケベニンゲンちゃん",
+      "color": "silver",
+      "condition": "adrenaline!!!/MASTER以下全て/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900403
+    },
+    {
+      "name": "スタイテス",
+      "color": "gold",
+      "condition": "ぶぉん！ぶぉん！らいど・おん！/MASTER/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900404
+    },
+    {
+      "name": "スターバーストストリーム ※",
+      "color": "gold",
+      "condition": "crossing field/2人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900405
+    },
+    {
+      "name": "セガのゲームは宇宙一ィィィィーーーーッ!!!!",
+      "color": "platina",
+      "condition": "檄!帝国華撃団/In The Blue Sky '01/Dreams Dreams:Kids Ver./セガサターン起動音[H.][Remix]/story/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900406
+    },
+    {
+      "name": "ソロキャン ※",
+      "color": "silver",
+      "condition": "SHINY DAYS/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900407
+    },
+    {
+      "name": "チュウニズム…やらせてください！！",
+      "color": "silver",
+      "condition": "極上スマイル/MASTER以下全て/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900408
+    },
+    {
+      "name": "チュウニズムでも恋がしたい！ ※",
+      "color": "silver",
+      "condition": "Sparkling Daydream/2人以上で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900409
+    },
+    {
+      "name": "チュウニペンギンさんチーム ※",
+      "color": "gold",
+      "condition": "DreamRiser/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900410
+    },
+    {
+      "name": "チュウニ番占",
+      "color": "silver",
+      "condition": "夢路らびりんす/EXPERT/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900411
+    },
+    {
+      "name": "デスデス、デース！",
+      "color": "normal",
+      "condition": "虹色のフリューゲル/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900412
+    },
+    {
+      "name": "トゥットゥル～♪ ※",
+      "color": "gold",
+      "condition": "スカイクラッドの観測者/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900413
+    },
+    {
+      "name": "ナイスバード",
+      "color": "silver",
+      "condition": "徒花ネクロマンシー/目覚めRETURNER/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900414
+    },
+    {
+      "name": "ネットでの居場所がなくなる！！",
+      "color": "normal",
+      "condition": "青春コンプレックス/1人/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900415
+    },
+    {
+      "name": "パンツァー・フォー！ ※",
+      "color": "silver",
+      "condition": "DreamRiser/2人以上で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900416
+    },
+    {
+      "name": "ヒノカミ神楽 円舞",
+      "color": "gold",
+      "condition": "紅蓮華/MASTER/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900417
+    },
+    {
+      "name": "ビーター",
+      "color": "gold",
+      "condition": "crossing field/MASTER/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900418
+    },
+    {
+      "name": "ヘタレ",
+      "color": "silver",
+      "condition": "WHITE ALBUM Live at Campus Fes/3人で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900419
+    },
+    {
+      "name": "ペェッ！",
+      "color": "silver",
+      "condition": "ようこそジャパリパークへ/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900420
+    },
+    {
+      "name": "ペンは剣よりヒプノシスマイク",
+      "color": "silver",
+      "condition": "ヒプノシスマイク -Division Battle Anthem-/2人以上で店内マッチング/勝利",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900421
+    },
+    {
+      "name": "ペ・ル・ソ・ナ！ ※",
+      "color": "gold",
+      "condition": "Pursuing My True Self/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900422
+    },
+    {
+      "name": "ポイッてポイッてしないでよ",
+      "color": "normal",
+      "condition": "ノーポイッ!/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900423
+    },
+    {
+      "name": "マジLOVE2000% ※",
+      "color": "gold",
+      "condition": "マジLOVE1000%/2人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900424
+    },
+    {
+      "name": "マジLOVE3000% ※",
+      "color": "gold",
+      "condition": "マジLOVE1000%/3人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900425
+    },
+    {
+      "name": "マジLOVE4000% ※",
+      "color": "gold",
+      "condition": "マジLOVE1000%/4人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900426
+    },
+    {
+      "name": "マジやばくね",
+      "color": "platina",
+      "condition": "青空のラプソディ/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900427
+    },
+    {
+      "name": "メギドラオンでございます*25",
+      "color": "normal",
+      "condition": "全ての人の魂の戦い (Daisuke Asakura Remix)/2人以上で店内マッチング/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900428
+    },
+    {
+      "name": "ヤバイわよ！*28",
+      "color": "normal",
+      "condition": "] Lost Princess/3人で店内マッチング/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900429
+    },
+    {
+      "name": "ヤンマーニ ヤンマーニ ヤンマーニ ヤンマーニ ヤンマーニ",
+      "color": "gold",
+      "condition": "nowhere/MASTER/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900430
+    },
+    {
+      "name": "ユニバァァァァァァァァァァス！！",
+      "color": "silver",
+      "condition": "Be My Friend/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900431
+    },
+    {
+      "name": "リヤン・ド・ファミユ",
+      "color": "platina",
+      "condition": "羽ばたきのバースデイ/MASTER/3人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900432
+    },
+    {
+      "name": "レイシス・ヴィ・フェリシティ・煌",
+      "color": "silver",
+      "condition": "ぶいえす!!らいばる!!/MASTER/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900433
+    },
+    {
+      "name": "ワクワクワクワクシークヮーサー！",
+      "color": "silver",
+      "condition": "Wish me luck!!!!/EXPERT/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900434
+    },
+    {
+      "name": "ワケガワカラナイヨ",
+      "color": "platina",
+      "condition": "コネクト/MASTER/4人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900435
+    },
+    {
+      "name": "一眼一足",
+      "color": "platina",
+      "condition": "モノノケ・イン・ザ・フィクション/MASTER/SPEED 1/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900436
+    },
+    {
+      "name": "万死に値するわ",
+      "color": "silver",
+      "condition": "staple stable/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900437
+    },
+    {
+      "name": "三角関係*36",
+      "color": "silver",
+      "condition": "BASIC/3人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲以外関連(マッチング系)",
+      "id": 900438
+    },
+    {
+      "name": "主よ、信心なき輩に祖国が侵されるのを救いたまえ。遥か道の果て、我らは約束された地に至らん。",
+      "color": "platina",
+      "condition": "Los! Los! Los!/MASTER/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900439
+    },
+    {
+      "name": "乙女プラグイン実装！",
+      "color": "silver",
+      "condition": "SAVIOR OF SONG/3人で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900440
+    },
+    {
+      "name": "了承。",
+      "color": "platina",
+      "condition": "Last regrets/MASTER/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900441
+    },
+    {
+      "name": "交通安全祈願 ※",
+      "color": "silver",
+      "condition": "FEEL×ALIVE/ぶぉん！ぶぉん！らいど・おん！/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900442
+    },
+    {
+      "name": "今日はもう寝ようぜ",
+      "color": "silver",
+      "condition": "GROOVY/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900443
+    },
+    {
+      "name": "今日もrapしたいと思います。",
+      "color": "silver",
+      "condition": "1クレジット中、全て失礼しますが、RIP♡をプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900444
+    },
+    {
+      "name": "今日も一日がんばるぞい!",
+      "color": "silver",
+      "condition": "SAKURAスキップ/EXPERT/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900445
+    },
+    {
+      "name": "代打バースっ",
+      "color": "normal",
+      "condition": "Little Busters! ～TV animation ver.～/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900446
+    },
+    {
+      "name": "休まない！愚痴らない！考えない！いつも感謝！*8",
+      "color": "silver",
+      "condition": "1クレジット中、全て極上スマイルをプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900447
+    },
+    {
+      "name": "低速はステータスだ 希少価値だ",
+      "color": "platina",
+      "condition": "もってけ!セーラーふく/MASTER/SPEED 1/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900448
+    },
+    {
+      "name": "何言っているの。私は経験者よ。やりまくりよ ※",
+      "color": "gold",
+      "condition": "staple stable/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900449
+    },
+    {
+      "name": "例の紐",
+      "color": "silver",
+      "condition": "HELLO to DREAM/君色Everyday/MASTER/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900450
+    },
+    {
+      "name": "俺が結婚してやんよ ※",
+      "color": "gold",
+      "condition": "Thousand Enemies/2人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900451
+    },
+    {
+      "name": "俺は…キリトだ！（キリ！",
+      "color": "silver",
+      "condition": "crossing field/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900452
+    },
+    {
+      "name": "倫理君",
+      "color": "silver",
+      "condition": "君色シグナル/MASTER以下全て/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900453
+    },
+    {
+      "name": "僕が悪いんじゃない。僕の中の煩悩がいけないんだ!",
+      "color": "silver",
+      "condition": "スカイクラッドの観測者/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900454
+    },
+    {
+      "name": "僕と契約して、魔法少女になってよ！",
+      "color": "gold",
+      "condition": "コネクト/MASTER/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900455
+    },
+    {
+      "name": "僕には……ありふれた才能しか、無いみたいだ",
+      "color": "silver",
+      "condition": "FLARE/MASTER/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900456
+    },
+    {
+      "name": "僕はね、『正義の味方』になりたいんだ。 ※",
+      "color": "silver",
+      "condition": "oath sign/MEMORIA/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900457
+    },
+    {
+      "name": "僕らはこの場所でまた一つになれるんだ",
+      "color": "platina",
+      "condition": "Star☆Glitter/MASTER/4人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900458
+    },
+    {
+      "name": "兄：光吉猛修 弟：光吉賢司",
+      "color": "gold",
+      "condition": "SAVIOR OF SONG/ブルー・フィールド/2人以上で店内マッチング/MASTER/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900459
+    },
+    {
+      "name": "先輩とチュウニズム",
+      "color": "normal",
+      "condition": "ファッとして桃源郷/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900460
+    },
+    {
+      "name": "勝利してなお滅ぼさぬ。制覇してなお辱めぬ。それこそが真の『征服』である！",
+      "color": "silver",
+      "condition": "MEMORIA/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900461
+    },
+    {
+      "name": "友情？それともライバル？",
+      "color": "silver",
+      "condition": "灼熱スイッチ/2人で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900462
+    },
+    {
+      "name": "友達ですよね。*35",
+      "color": "silver",
+      "condition": "BASIC/2人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲以外関連(マッチング系)",
+      "id": 900463
+    },
+    {
+      "name": "友達を作ると、人間強度が下がるから",
+      "color": "silver",
+      "condition": "君の知らない物語/1人/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900464
+    },
+    {
+      "name": "君の傍に煌く星 ※",
+      "color": "gold",
+      "condition": "Star☆Glitter/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900465
+    },
+    {
+      "name": "吹 っ 切 れ た*11",
+      "color": "silver",
+      "condition": "1クレジット中、全ておちゃめ機能をプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900466
+    },
+    {
+      "name": "哂い合ってさよなら",
+      "color": "normal",
+      "condition": "シャルル/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900467
+    },
+    {
+      "name": "問おう。貴方が私のマスターか？",
+      "color": "silver",
+      "condition": "oath sign/MASTER/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900468
+    },
+    {
+      "name": "嘘だッ！",
+      "color": "silver",
+      "condition": "I believe what you said/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900469
+    },
+    {
+      "name": "変態じゃないよ、変態紳士だよ！",
+      "color": "platina",
+      "condition": "スカイクラッドの観測者/MASTER/SPEED 1/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900470
+    },
+    {
+      "name": "変態仮面",
+      "color": "gold",
+      "condition": "Emotions/2人で店内マッチング/MASTERでBASICのRANK SSSに勝利",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900471
+    },
+    {
+      "name": "夢限少女",
+      "color": "platina",
+      "condition": "Love your enemies/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900472
+    },
+    {
+      "name": "大きく吸って せーの！ ※",
+      "color": "gold",
+      "condition": "あ・え・い・う・え・お・あお!!/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900473
+    },
+    {
+      "name": "天と地が結ぶ場所に僕は立つ",
+      "color": "gold",
+      "condition": "亡國覚醒カタルシス/MASTER/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900474
+    },
+    {
+      "name": "天使ちゃんマジ天使",
+      "color": "platina",
+      "condition": "My Soul,Your Beats!/MASTER/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900475
+    },
+    {
+      "name": "天城先輩、マジ凄ぇ…",
+      "color": "silver",
+      "condition": "Your Affection (Daisuke Asakura Remix)/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900476
+    },
+    {
+      "name": "失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した*31",
+      "color": "silver",
+      "condition": "称号「エル・プサイ・コンガリィ」/「僕が悪いんじゃない。僕の中の煩悩がいけないんだ!」を入手",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(その他)",
+      "id": 900477
+    },
+    {
+      "name": "奇跡も、魔法も、あるんだよ ※",
+      "color": "gold",
+      "condition": "Magia/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900478
+    },
+    {
+      "name": "好きって言っていいですか？",
+      "color": "silver",
+      "condition": "五等分のカタチ/2人で店内マッチング/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900479
+    },
+    {
+      "name": "妹達(シスターズ) ※",
+      "color": "gold",
+      "condition": "sister's noise/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900480
+    },
+    {
+      "name": "嫌なときはなぁ！逃げたっていいんだよ！",
+      "color": "normal",
+      "condition": "1/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900481
+    },
+    {
+      "name": "少し、頭冷やそうか",
+      "color": "normal",
+      "condition": "NEVER SURRENDER/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900482
+    },
+    {
+      "name": "少しだけつなげます*34",
+      "color": "silver",
+      "condition": "BASIC/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲以外関連(マッチング系以外)",
+      "id": 900483
+    },
+    {
+      "name": "己が信じた正義のため、あまねく冒涜を省みぬ者よ！",
+      "color": "gold",
+      "condition": "GROOVY/EXPERT/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900484
+    },
+    {
+      "name": "平等じゃなく 公平にいこうぜ",
+      "color": "gold",
+      "condition": "五等分の気持ち/2人以上で店内マッチング/BASICでMASTERのRANK SSSに勝利",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900485
+    },
+    {
+      "name": "幸せへと戻る道 ※",
+      "color": "silver",
+      "condition": "届かない恋 '13/EXPERT/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900486
+    },
+    {
+      "name": "幸せへと進む道 ※",
+      "color": "silver",
+      "condition": "WHITE ALBUM Live at Campus Fes/EXPERT/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900487
+    },
+    {
+      "name": "心の怪盗団 ※",
+      "color": "gold",
+      "condition": "Blooming Villain (ATLUS Konishi Remix)/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900488
+    },
+    {
+      "name": "思うまま楽しもう ※",
+      "color": "silver",
+      "condition": "ぐーちょきパレード/EXPERT/RANK S達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900489
+    },
+    {
+      "name": "愛は…沈まない！",
+      "color": "silver",
+      "condition": "ブルー・フィールド/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900490
+    },
+    {
+      "name": "愛はどんな形にもなる！",
+      "color": "platina",
+      "condition": "愛のシュプリーム！/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900491
+    },
+    {
+      "name": "我が名は狂気のマッドサイエンティスト鳳凰院凶真だ！*15",
+      "color": "gold",
+      "condition": "スカイクラッドの観測者/MASTER/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900492
+    },
+    {
+      "name": "戦争を、しましょう",
+      "color": "silver",
+      "condition": "staple stable/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900493
+    },
+    {
+      "name": "手乗りタイガー",
+      "color": "gold",
+      "condition": "プレパレード/MASTER/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900494
+    },
+    {
+      "name": "承認欲求モンスター",
+      "color": "platina",
+      "condition": "ギターと孤独と蒼い惑星/MASTER/4人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900495
+    },
+    {
+      "name": "最悪だ 最低だ お前らのせいだ",
+      "color": "silver",
+      "condition": "アンダーキッズ/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900496
+    },
+    {
+      "name": "月に代わって、お仕置きよ！",
+      "color": "silver",
+      "condition": "ムーンライト伝説/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900497
+    },
+    {
+      "name": "東京武偵高校 強襲学部 強襲科 １年",
+      "color": "gold",
+      "condition": "Bull's Eye/MASTER/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900498
+    },
+    {
+      "name": "某としたことが……※",
+      "color": "silver",
+      "condition": "星灯/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900499
+    },
+    {
+      "name": "次からこいつらには もっといい家庭教師を付けてやってください",
+      "color": "silver",
+      "condition": "五等分の気持ち/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900500
+    },
+    {
+      "name": "武偵憲章1条! 仲間を信じ、仲間を助けよ ※",
+      "color": "gold",
+      "condition": "Bull's Eye/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900501
+    },
+    {
+      "name": "歯止めが効かなくなる ※",
+      "color": "gold",
+      "condition": "The Other Side of the Wall/2人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900502
+    },
+    {
+      "name": "死に戻り",
+      "color": "normal",
+      "condition": "Paradisus-Paradoxum/デンジャースキル発動",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900503
+    },
+    {
+      "name": "死の支配者",
+      "color": "gold",
+      "condition": "Clattanoia/EXPERT/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900504
+    },
+    {
+      "name": "死んだ世界戦線",
+      "color": "silver",
+      "condition": "My Soul,Your Beats!/EXPERT/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900505
+    },
+    {
+      "name": "水の様に優しく 花の様に劇しく",
+      "color": "silver",
+      "condition": "甲賀忍法帖/EXPERT/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900506
+    },
+    {
+      "name": "永久機関が完成しちまったなアア～！",
+      "color": "silver",
+      "condition": "1クレジット中、全て刃渡り2億センチ(TV edit)をプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900507
+    },
+    {
+      "name": "混ざり合う愛のフィロソフィー ※",
+      "color": "gold",
+      "condition": "妄想感傷代償連盟/2人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900508
+    },
+    {
+      "name": "濡れたまんまでイッちゃって！！！ ※",
+      "color": "gold",
+      "condition": "睡蓮花/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900509
+    },
+    {
+      "name": "爆ぜろリアル！ 弾けろシナプス！ Van!shment Th!s World！",
+      "color": "gold",
+      "condition": "Van!shment Th!s World/MASTER/RANK SSS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900510
+    },
+    {
+      "name": "猫のうんこ踏め！",
+      "color": "silver",
+      "condition": "Rumbling hearts/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900511
+    },
+    {
+      "name": "生まれたままの感情を隠さないで",
+      "color": "silver",
+      "condition": "Vitalization/EXPERT/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900512
+    },
+    {
+      "name": "生物係 ※",
+      "color": "gold",
+      "condition": "ブルーバード/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900513
+    },
+    {
+      "name": "盛るぜぇ～超盛るぜぇ～ ※",
+      "color": "gold",
+      "condition": "オレンジ/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900514
+    },
+    {
+      "name": "盟約に誓って(アッシェンテ) ※",
+      "color": "gold",
+      "condition": "This game/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900515
+    },
+    {
+      "name": "目覚めしは、古の悪意。",
+      "color": "silver",
+      "condition": "狩猟戦旗～REQUIEM/EXPERT/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900516
+    },
+    {
+      "name": "真っ赤な誓いいいいいいいいいいいい*4",
+      "color": "silver",
+      "condition": "1クレジット中、全て真赤な誓いをプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900517
+    },
+    {
+      "name": "眩しさだけは 忘れなかった。 ※",
+      "color": "silver",
+      "condition": "アルカテイル/EXPERT/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900518
+    },
+    {
+      "name": "睡眠の重要性※",
+      "color": "silver",
+      "condition": "楽園の翼/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900519
+    },
+    {
+      "name": "神々の義眼",
+      "color": "platina",
+      "condition": "シュガーソングとビターステップ/MASTER/SPEED SONIC/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900520
+    },
+    {
+      "name": "禁則事項です♪*27",
+      "color": "silver",
+      "condition": "ハレ晴レユカイ/2人で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900521
+    },
+    {
+      "name": "私 私 私 私 私",
+      "color": "gold",
+      "condition": "五等分の気持ち/五等分のカタチ/MASTER/RANK SSS達成*14",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900522
+    },
+    {
+      "name": "私が俗に言う天才です",
+      "color": "platina",
+      "condition": "うっせぇわ/MASTER/SPEED SONIC/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900523
+    },
+    {
+      "name": "私が来た！",
+      "color": "platina",
+      "condition": "No.1/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900524
+    },
+    {
+      "name": "私に乗って！",
+      "color": "silver",
+      "condition": "SAVIOR OF SONG/2人で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900525
+    },
+    {
+      "name": "私の、私たちの全ては、まだ始まってもいない。*17",
+      "color": "silver",
+      "condition": "NEVER SURRENDER/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900526
+    },
+    {
+      "name": "私は友達と話していただけだ。エア友達と！ ※",
+      "color": "silver",
+      "condition": "Be My Friend/1人/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900527
+    },
+    {
+      "name": "笑えばいいと思うよ",
+      "color": "silver",
+      "condition": "魂のルフラン/2人以上で店内マッチング/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/1回MISS/強制終了)",
+      "id": 900528
+    },
+    {
+      "name": "筋肉はすべてを解決してくれる",
+      "color": "platina",
+      "condition": "お願いマッスル/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900529
+    },
+    {
+      "name": "筋肉イェイイェイ！ ※",
+      "color": "gold",
+      "condition": "Little Busters! ～TV animation ver.～/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900530
+    },
+    {
+      "name": "結束バンド",
+      "color": "silver",
+      "condition": "青春コンプレックス/4人で店内マッチング/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900531
+    },
+    {
+      "name": "腐安定な姫様 ※",
+      "color": "gold",
+      "condition": "不安定な神様/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900532
+    },
+    {
+      "name": "見えないものをみようとして",
+      "color": "platina",
+      "condition": "天体観測/MASTER/SPEED SONIC/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900533
+    },
+    {
+      "name": "課金アイテムだよ",
+      "color": "gold",
+      "condition": "Clattanoia/MASTER/2人で店内マッチング/RANK SSS達成/勝利",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900534
+    },
+    {
+      "name": "調査兵団 ※",
+      "color": "gold",
+      "condition": "紅蓮の弓矢/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900535
+    },
+    {
+      "name": "超平和バスターズ ※",
+      "color": "gold",
+      "condition": "secret base ～君がくれたもの～ (10 years after Ver.)/4人で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900536
+    },
+    {
+      "name": "超能力者（レベル5）",
+      "color": "gold",
+      "condition": "only my railgun/MASTER/SPEED 1/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900537
+    },
+    {
+      "name": "超電磁砲（レールガン）",
+      "color": "gold",
+      "condition": "only my railgun/MASTER/SPEED SONIC/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900538
+    },
+    {
+      "name": "逃げちゃダメだ。逃げちゃダメだ。逃げちゃダメだ。 ※",
+      "color": "silver",
+      "condition": "魂のルフラン/2人以上で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900539
+    },
+    {
+      "name": "選ばれし子どもたち",
+      "color": "silver",
+      "condition": "Butter-Fly/2人以上で店内マッチング",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/プレイ)",
+      "id": 900540
+    },
+    {
+      "name": "邪王真眼の使い手",
+      "color": "platina",
+      "condition": "Sparkling Daydream/MASTER/SPEED SONIC/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900541
+    },
+    {
+      "name": "野猿",
+      "color": "silver",
+      "condition": "乙女のルートはひとつじゃない！/MASTER/SPEED SONIC/プレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900542
+    },
+    {
+      "name": "鍵っ子",
+      "color": "silver",
+      "condition": "Little Busters! ～TV animation ver.～Last regrets/鳥の詩MASTER/RANK SS達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(RANK達成系)",
+      "id": 900543
+    },
+    {
+      "name": "降りて来いよド三流。格の違いってやつを見せてやる！！",
+      "color": "silver",
+      "condition": "STAY AWAY/2人以上で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900544
+    },
+    {
+      "name": "隣人部 ※",
+      "color": "silver",
+      "condition": "僕らの翼/1人/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900545
+    },
+    {
+      "name": "音楽ゲームの凡ミスフラグしかないプレイヤーに転生してしまった…※",
+      "color": "silver",
+      "condition": "乙女のルートはひとつじゃない！/プレイ中に1MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(1回MISS/強制終了系)",
+      "id": 900546
+    },
+    {
+      "name": "頭の中に爆弾が！",
+      "color": "platina",
+      "condition": "チャージマン研！/MASTER/SPEED 1/プレイ中に1回MISS",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900547
+    },
+    {
+      "name": "高宮なすのです！*7",
+      "color": "silver",
+      "condition": "1クレジット中、全てメニメニマニマニをプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900548
+    },
+    {
+      "name": "鬼がかってますね…！ ※",
+      "color": "gold",
+      "condition": "Redo/2人以上で店内マッチング/FULL CHAIN達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/FULL CHAIN達成)",
+      "id": 900549
+    },
+    {
+      "name": "魔改造",
+      "color": "platina",
+      "condition": "ガチャガチャきゅ～と・ふぃぎゅ@メイト/MASTER/SPEED 1/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(オプション指定系)",
+      "id": 900550
+    },
+    {
+      "name": "鳥肌が立ったにゃん…！*20",
+      "color": "silver",
+      "condition": "青春はNon-Stop！/EXPERT/FULL COMBO達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(FULL COMBO達成系)",
+      "id": 900551
+    },
+    {
+      "name": "麻雀って…楽しいよね",
+      "color": "silver",
+      "condition": "Futuristic Player/4人で店内マッチング/1位",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(マッチング系/勝利/1位)",
+      "id": 900552
+    },
+    {
+      "name": "（配信停止楽曲名）",
+      "color": "gold",
+      "condition": "（曲名）/EXPERT/ALL JUSTICE達成※2024/12/12時点242種類",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900553
+    },
+    {
+      "name": "Ｖ．Ｉ．Ｐ．Ｐ．Ｅ．Ｒ*9",
+      "color": "silver",
+      "condition": "1クレジット中、全てV.I.Pをプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900554
+    },
+    {
+      "name": "ｳｪｯ",
+      "color": "platina",
+      "condition": "Lemon/MASTER以下全て/ALL JUSTICE達成",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(ALL JUSTICE達成系)",
+      "id": 900555
+    },
+    {
+      "name": "ﾍﾞｲﾍﾞﾍﾞｲﾍﾞﾍﾞｲﾍﾞﾍﾞｲﾍﾞﾍﾞｲﾍﾞﾍﾞｲﾍﾞﾍﾞｲﾍﾞﾍﾞｲﾍﾞﾍﾞｲﾍﾞ*13",
+      "color": "silver",
+      "condition": "1クレジット中、全てMass Destruction (”P3” + ”P3F” ver.)をプレイ",
+      "page": "新規取得不可称号一覧(楽曲プレイ)",
+      "section": "配信停止楽曲関連(プレイ系)",
+      "id": 900556
+    },
+    {
+      "name": "( ﾟ∀ﾟ)o彡゜あーりん！あーりん！*23",
+      "color": "silver",
+      "condition": "Help me, あーりん！/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900557
+    },
+    {
+      "name": "(楽曲名)",
+      "color": "gold",
+      "condition": "(任意の楽曲)/EXPERT/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900558
+    },
+    {
+      "name": "-prototype-*31",
+      "color": "silver",
+      "condition": "Evans/BASIC/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900559
+    },
+    {
+      "name": "44.5",
+      "color": "silver",
+      "condition": "＃あくあ色ぱれっと/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900560
+    },
+    {
+      "name": "A Wandering Melody of Love*32",
+      "color": "silver",
+      "condition": "迷える音色は恋の唄/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900561
+    },
+    {
+      "name": "ALL JUSTICEほど人を魅了するものはない",
+      "color": "platina",
+      "condition": "ホシトハナ/MASTER/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900562
+    },
+    {
+      "name": "Ahuhuhuhu・・・",
+      "color": "silver",
+      "condition": "スパイダーダンス/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900563
+    },
+    {
+      "name": "Beyond the cur-10th call",
+      "color": "platina",
+      "condition": "Linked Tune/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900564
+    },
+    {
+      "name": "FREQ——フリケンシーバースト",
+      "color": "platina",
+      "condition": "Teriqma/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900565
+    },
+    {
+      "name": "GODDAMN",
+      "color": "normal",
+      "condition": "One with One (Eden ver.)/デンジャースキル発動",
+      "page": "楽曲プレイ称号一覧",
+      "section": "デンジャースキル発動(強制終了)",
+      "id": 900566
+    },
+    {
+      "name": "He Burned Out ※",
+      "color": "silver",
+      "condition": "ヒバナ/EXPERT/RANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900567
+    },
+    {
+      "name": "L.M.B.G",
+      "color": "platina",
+      "condition": "ハイファイ☆デイズ/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900568
+    },
+    {
+      "name": "LEGEND OF (バージョン名)",
+      "color": "rainbow",
+      "condition": "(バージョン名)のMASTER以下全ての譜面でALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "バージョンコンプリート",
+      "id": 900569
+    },
+    {
+      "name": "LET’S PLAY！WHITE WINTER DAYS",
+      "color": "platina",
+      "condition": "Snow Colored Score/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900570
+    },
+    {
+      "name": "Reloaded",
+      "color": "platina",
+      "condition": "ヒバナ/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900571
+    },
+    {
+      "name": "S U P E R C O L O R F U L",
+      "color": "platina",
+      "condition": "Kaleidoscope/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900572
+    },
+    {
+      "name": "SPIRIT OF (バージョン名)",
+      "color": "silver",
+      "condition": "(バージョン名)のMASTER以下全ての譜面でRANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "バージョンコンプリート",
+      "id": 900573
+    },
+    {
+      "name": "THE LAST",
+      "color": "platina",
+      "condition": "PANDORA PARADOXXX/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900574
+    },
+    {
+      "name": "TRIBUTE OF (バージョン名)",
+      "color": "gold",
+      "condition": "(バージョン名)のMASTER以下全ての譜面でRANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "バージョンコンプリート",
+      "id": 900575
+    },
+    {
+      "name": "This story is about growth of little idols and their little producer.",
+      "color": "silver",
+      "condition": "Shine In The Sky☆/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900576
+    },
+    {
+      "name": "U149",
+      "color": "platina",
+      "condition": "Shine In The Sky☆/よりみちリトルスター/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900577
+    },
+    {
+      "name": "happy×encounter",
+      "color": "gold",
+      "condition": "Hello! My World!!/MASTER/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900578
+    },
+    {
+      "name": "▼// (楽曲名) //▲",
+      "color": "platina",
+      "condition": "(任意の楽曲)/ULTIMA/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900579
+    },
+    {
+      "name": "★PP天使★",
+      "color": "silver",
+      "condition": "特者生存ワンダラダー!!/EXPERT/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900580
+    },
+    {
+      "name": "「・・・－－－・・・」",
+      "color": "normal",
+      "condition": "はいよろこんで/デンジャースキル発動",
+      "page": "楽曲プレイ称号一覧",
+      "section": "デンジャースキル発動(強制終了)",
+      "id": 900581
+    },
+    {
+      "name": "「愛してる」を溶かした青*26",
+      "color": "silver",
+      "condition": "Palette/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900582
+    },
+    {
+      "name": "「祟るんだ！るんだった」",
+      "color": "silver",
+      "condition": "ヤババイナ/プレイ中に1回MISS",
+      "page": "楽曲プレイ称号一覧",
+      "section": "1回MISS",
+      "id": 900583
+    },
+    {
+      "name": "『アンシャール・アウダーチア』の試練を越えし者",
+      "color": "platina",
+      "condition": "Daphnis/MASTER/RANK SSS+達成*14",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900584
+    },
+    {
+      "name": "『ヴェーネス』の試練を越えし者",
+      "color": "platina",
+      "condition": "Chaotic Ørder/MASTER/RANK SSS+達成*13",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900585
+    },
+    {
+      "name": "『創始者 カイン』の試練を越えし者",
+      "color": "platina",
+      "condition": "祈 -我ら神祖と共に歩む者なり-/MASTER/RANK SSS+達成*12",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900586
+    },
+    {
+      "name": "『古き破壊者 ベルゲルミル』の試練を越えし者",
+      "color": "platina",
+      "condition": "The Metaverse -First story of the SeelischTact-/MASTER/RANK SSS+達成*11",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900587
+    },
+    {
+      "name": "あいうぉんちゅーコールが聞こえなーい",
+      "color": "silver",
+      "condition": "テレパシ/EXPERT/RANK SS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900588
+    },
+    {
+      "name": "あいったー",
+      "color": "platina",
+      "condition": "Distance/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900589
+    },
+    {
+      "name": "あと1クレで帰ります*4",
+      "color": "silver",
+      "condition": "グッバイ宣言/3回プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900590
+    },
+    {
+      "name": "あなたはあなただから",
+      "color": "silver",
+      "condition": "スーパーヒーロー/EXPERT/RANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900591
+    },
+    {
+      "name": "い、いかん……体が勝手に…*20",
+      "color": "silver",
+      "condition": "檄!帝国華撃団/MASTER/プレイ中に1回MISS",
+      "page": "楽曲プレイ称号一覧",
+      "section": "1回MISS",
+      "id": 900592
+    },
+    {
+      "name": "いい日和！",
+      "color": "silver",
+      "condition": "One with One (Eden ver.)/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900593
+    },
+    {
+      "name": "うっちゅ～☆",
+      "color": "silver",
+      "condition": "BRAND NEW STARS!! (ALKALOID ver.)/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900594
+    },
+    {
+      "name": "おいおい瞬殺だよ",
+      "color": "normal",
+      "condition": "Distance/SPEED SONIC/デンジャースキル発動",
+      "page": "楽曲プレイ称号一覧",
+      "section": "オプション指定",
+      "id": 900595
+    },
+    {
+      "name": "お前は全然まな板のスゴさを分かってない",
+      "color": "platina",
+      "condition": "つるぺったん/MASTER/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900596
+    },
+    {
+      "name": "お菓子大好き☆",
+      "color": "silver",
+      "condition": "キャンディークッキーチョコレート/RANK SS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900597
+    },
+    {
+      "name": "くぎゅううううううううううううううううううううううううううううううううう",
+      "color": "silver",
+      "condition": "ぶれいくるみるくらぶ！/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900598
+    },
+    {
+      "name": "ここまでやったらもう終わり",
+      "color": "platina",
+      "condition": "ふぁんぶる！/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900599
+    },
+    {
+      "name": "この世にはAJも出来ない人が沢山いるんですよ",
+      "color": "platina",
+      "condition": "ノンブレス・オブリージュ/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900600
+    },
+    {
+      "name": "この世のものとは思えない増悪と呪いに満ちた言葉。日本語に該当がないので和訳できない。",
+      "color": "gold",
+      "condition": "LaVI-Bavellabion/MASTER/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900601
+    },
+    {
+      "name": "この扉に入ると二度とこちらの世界には戻って来ることが出来ません*9",
+      "color": "silver",
+      "condition": "neu/EXPERT/RANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900602
+    },
+    {
+      "name": "これにて閉幕！",
+      "color": "platina",
+      "condition": "幕を下ろそう、パレードへ/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900603
+    },
+    {
+      "name": "さあ！始めよう！",
+      "color": "platina",
+      "condition": "シリウスの輝きのように/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900604
+    },
+    {
+      "name": "ずっと泡石の様に輝いてメモリーズ",
+      "color": "platina",
+      "condition": "うたかたよいかないで/MASTER/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900605
+    },
+    {
+      "name": "ずんだずんだ シェイキング ( ≧∇≦)o彡ﾟ",
+      "color": "silver",
+      "condition": "ずんだシェイキング/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900606
+    },
+    {
+      "name": "せがた三四郎*22",
+      "color": "silver",
+      "condition": "セガサターン起動音[H.][Remix]/BASIC/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900607
+    },
+    {
+      "name": "だ い さ ん じ ※",
+      "color": "silver",
+      "condition": "Virtual to LIVE/MASTER/プレイ中に1回MISS",
+      "page": "楽曲プレイ称号一覧",
+      "section": "1回MISS",
+      "id": 900608
+    },
+    {
+      "name": "ちょり～っす",
+      "color": "silver",
+      "condition": "Surprising Thanks!! (Crazy:B ver.)/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900609
+    },
+    {
+      "name": "てぇてぇは正義だから～！*33",
+      "color": "silver",
+      "condition": "それはもうらぶちゅ/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900610
+    },
+    {
+      "name": "とまらないホロライブ",
+      "color": "silver",
+      "condition": "Shiny Smily Story/EXPERT/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900611
+    },
+    {
+      "name": "どうしようもない 変態です",
+      "color": "platina",
+      "condition": "雑魚/MASTER/SPEED 1/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "オプション指定",
+      "id": 900612
+    },
+    {
+      "name": "にゃもー！",
+      "color": "platina",
+      "condition": "最愛テトラグラマトン/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900613
+    },
+    {
+      "name": "ねえあたし知ってるよ",
+      "color": "silver",
+      "condition": "モニタリング/EXPERT/RANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900614
+    },
+    {
+      "name": "はい残念でした♡*21",
+      "color": "normal",
+      "condition": "めっちゃ煽ってくるタイプの音ゲーボス曲ちゃんなんかに負けないが？？？？？/MASTER/デンジャースキル発動",
+      "page": "楽曲プレイ称号一覧",
+      "section": "デンジャースキル発動(強制終了)",
+      "id": 900615
+    },
+    {
+      "name": "はじまりの未知とー終わらない未知で－",
+      "color": "silver",
+      "condition": "はじまりの未来/EXPERT/RANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900616
+    },
+    {
+      "name": "はなげ",
+      "color": "silver",
+      "condition": "ゼイタクするまで抱きしめて/MASTER/プレイ中に1回MISS",
+      "page": "楽曲プレイ称号一覧",
+      "section": "1回MISS",
+      "id": 900617
+    },
+    {
+      "name": "ぱんぱかぱかぱかパーフェクト",
+      "color": "gold",
+      "condition": "楽園ファンファーレ/EXPERT/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900618
+    },
+    {
+      "name": "ぴにゃにゃ～！ぴにゃっ♪",
+      "color": "gold",
+      "condition": "Yes! Party Time!!/MASTER/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900619
+    },
+    {
+      "name": "ふ、ふふｗｗ俺自重ｗｗｗ*30",
+      "color": "silver",
+      "condition": "ウサテイ/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900620
+    },
+    {
+      "name": "ふたつのせかいをつなぐうた",
+      "color": "rainbow",
+      "condition": "YOUNITHM/ULTIMA以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900621
+    },
+    {
+      "name": "みんなの好きな総菜も教えてください！！",
+      "color": "silver",
+      "condition": "好きな惣菜発表ドラゴン/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900622
+    },
+    {
+      "name": "やっぱり御形はかわいいよ",
+      "color": "silver",
+      "condition": "恋はりんりん☆あーりんベル/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900623
+    },
+    {
+      "name": "やーい！ ざぁこ♡ ざぁ～こ♡",
+      "color": "platina",
+      "condition": "ラヴィ/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900624
+    },
+    {
+      "name": "よそ見してるからだ！！",
+      "color": "silver",
+      "condition": "Not On The Sidelines - Street Fighter 6 Main Theme/プレイ中に1回MISS",
+      "page": "楽曲プレイ称号一覧",
+      "section": "1回MISS",
+      "id": 900625
+    },
+    {
+      "name": "わいるど、がお～！",
+      "color": "silver",
+      "condition": "はっぴーでいず！/EXPERT/RANK SS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900626
+    },
+    {
+      "name": "アクセス・フラ～ッシュ！",
+      "color": "silver",
+      "condition": "UNION/EXPERT/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900627
+    },
+    {
+      "name": "カルチャ・ショック！",
+      "color": "silver",
+      "condition": "カルチャ/MASTER/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900628
+    },
+    {
+      "name": "ゲーセンにいこうね*3",
+      "color": "silver",
+      "condition": "1クレジット中、全て異星にいこうねをプレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900629
+    },
+    {
+      "name": "ゴブリンか？ ※",
+      "color": "silver",
+      "condition": "1クレジット中、全てRightfullyをプレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900630
+    },
+    {
+      "name": "システム適合者",
+      "color": "silver",
+      "condition": "Advance（CHUNITHM edit）/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900631
+    },
+    {
+      "name": "チーズケーキ森の中",
+      "color": "silver",
+      "condition": "ホシトハナ/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900632
+    },
+    {
+      "name": "テンション MAX！いっけー！",
+      "color": "silver",
+      "condition": "放課後革命/EXPERT/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900633
+    },
+    {
+      "name": "ナイナイブーブー",
+      "color": "platina",
+      "condition": "零號車輛/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900634
+    },
+    {
+      "name": "パカラー*34",
+      "color": "gold",
+      "condition": "Blue Noise/JET/EXPERT/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900635
+    },
+    {
+      "name": "パトラちゃん様に愛をこめろー！！！",
+      "color": "silver",
+      "condition": "偉大なる悪魔は実は大天使パトラちゃん様なのだ！/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900636
+    },
+    {
+      "name": "ブチ切れたぜ*17",
+      "color": "silver",
+      "condition": "アイロニック/EXPERT/プレイ中に1回MISS",
+      "page": "楽曲プレイ称号一覧",
+      "section": "1回MISS",
+      "id": 900637
+    },
+    {
+      "name": "ホウ砂水と洗濯のりを混ぜて…",
+      "color": "silver",
+      "condition": "ぎゅむ！/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900638
+    },
+    {
+      "name": "ワンマンライブ大成功！*27",
+      "color": "silver",
+      "condition": "アンハッピーリフレイン/1人/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900639
+    },
+    {
+      "name": "一日一爆裂",
+      "color": "normal",
+      "condition": "TOMORROW/デンジャースキル発動",
+      "page": "楽曲プレイ称号一覧",
+      "section": "デンジャースキル発動(強制終了)",
+      "id": 900640
+    },
+    {
+      "name": "一片食べたら、後はもう、適当に遊んでしまえ。",
+      "color": "silver",
+      "condition": "オブソミート/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900641
+    },
+    {
+      "name": "七色の人形遣い",
+      "color": "silver",
+      "condition": "星色夜空/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900642
+    },
+    {
+      "name": "世界をかっ飛ばして三回転",
+      "color": "platina",
+      "condition": "回転 feat.あやぽんず＊/からくりピエロ/CYCLES/MASTER/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900643
+    },
+    {
+      "name": "主に死を扱う程度の能力",
+      "color": "silver",
+      "condition": "Cinderella Story [BlackY Remix]/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900644
+    },
+    {
+      "name": "人語を解さない",
+      "color": "platina",
+      "condition": "luna blu/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900645
+    },
+    {
+      "name": "今宵、劇場に映し出される景色とは───。 ※",
+      "color": "silver",
+      "condition": "NightTheater/EXPERT/RANK SS達成※『SUN PLUS』までに達成済みでも『LUMINOUS』以降に改めて達成する必要あり",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900646
+    },
+    {
+      "name": "仮想世界ALICEの住人",
+      "color": "silver",
+      "condition": "Advance（CHUNITHM edit）/MASTER/RANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900647
+    },
+    {
+      "name": "俺より強いやつに会いに行く",
+      "color": "platina",
+      "condition": "Not On The Sidelines - Street Fighter 6 Main Theme/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900648
+    },
+    {
+      "name": "僕は星だから",
+      "color": "silver",
+      "condition": "Stellar Stellar/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900649
+    },
+    {
+      "name": "全て、生まれ変われ",
+      "color": "platina",
+      "condition": "輪廻転生/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900650
+    },
+    {
+      "name": "全ての悪を手折るまで、僕は戦い続けよう",
+      "color": "platina",
+      "condition": "Hyperion/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900651
+    },
+    {
+      "name": "全部僕のもの",
+      "color": "silver",
+      "condition": "LEMON MELON COOKIE/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900652
+    },
+    {
+      "name": "冬の窓辺に、花一輪*24",
+      "color": "silver",
+      "condition": "花と、雪と、ドラムンベース。/1人/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900653
+    },
+    {
+      "name": "出航ー！(ヨーソロー！)",
+      "color": "silver",
+      "condition": "ホイホイ☆幻想ホロイズム/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900654
+    },
+    {
+      "name": "単位を～ゲット！！！！！",
+      "color": "platina",
+      "condition": "Change Our MIRAI！/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900655
+    },
+    {
+      "name": "君のハートにHiMERUシークレット",
+      "color": "silver",
+      "condition": "1クレジット中、全てSurprising Thanks!! (Crazy:B ver.)をプレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900656
+    },
+    {
+      "name": "咲かせるよっ！みんなの湯の花！",
+      "color": "silver",
+      "condition": "未来イマジネーション！/純情-SAKURA-/青春サイダー/MASTER/RANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900657
+    },
+    {
+      "name": "回レ回レ回レ回レ回レ回レ回レ回レ回レ！ ※",
+      "color": "silver",
+      "condition": "1クレジット中、全て回レ！雪月花をプレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900658
+    },
+    {
+      "name": "国歌",
+      "color": "silver",
+      "condition": "鳥の詩/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900659
+    },
+    {
+      "name": "境界を扱う程度の能力",
+      "color": "silver",
+      "condition": "宵闇の月に抱かれて/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900660
+    },
+    {
+      "name": "声を枯らして叫んだ*18",
+      "color": "silver",
+      "condition": "Just Be Friends/MASTER/プレイ中に1回MISS",
+      "page": "楽曲プレイ称号一覧",
+      "section": "1回MISS",
+      "id": 900661
+    },
+    {
+      "name": "太正櫻に浪漫の嵐*10 ※",
+      "color": "silver",
+      "condition": "檄!帝国華撃団/EXPERT/RANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900662
+    },
+    {
+      "name": "始まりと終わりが僕にはある",
+      "color": "silver",
+      "condition": "Ribbon/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900663
+    },
+    {
+      "name": "学園卒業*5",
+      "color": "silver",
+      "condition": "Elemental Creation/アルストロメリア/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900664
+    },
+    {
+      "name": "完全栄養食（かんぜんえいようしょく・英語: complete nutritional food）とは、中華麺とスープを主とし、様々な具としてチャーシュー・メンマ・味付け玉子・刻み葱・海苔などを組み合わせた、人間が健康を維持するために必要な栄養素を全て含んだ食品である。*35",
+      "color": "platina",
+      "condition": "INFiNiTE ENERZY -Overdoze-/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900665
+    },
+    {
+      "name": "完全調和（パーフェクト・ハーモニー）",
+      "color": "platina",
+      "condition": "WE GOTTA SOUL/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900666
+    },
+    {
+      "name": "幻想回廊",
+      "color": "platina",
+      "condition": "MUSIC PЯAYER/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900667
+    },
+    {
+      "name": "式神を扱う程度の能力",
+      "color": "silver",
+      "condition": "妖々跋扈 ～ Who done it！！！/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900668
+    },
+    {
+      "name": "強い魔人(マシーン)だ…非想天則！*29",
+      "color": "silver",
+      "condition": "全人類ノ非想天則/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900669
+    },
+    {
+      "name": "彼女が待つ、その大気の下で。",
+      "color": "platina",
+      "condition": "鳥の詩/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900670
+    },
+    {
+      "name": "心躍る季節！咲かせようメロディ！！",
+      "color": "silver",
+      "condition": "WakeUP MakeUP FEVER!/RANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900671
+    },
+    {
+      "name": "息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる",
+      "color": "silver",
+      "condition": "1クレジット中、全てノンブレス・オブリージュをプレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900672
+    },
+    {
+      "name": "愚者の末路*16",
+      "color": "silver",
+      "condition": "Vampire/MASTER/プレイ中に1回MISS",
+      "page": "楽曲プレイ称号一覧",
+      "section": "1回MISS",
+      "id": 900673
+    },
+    {
+      "name": "我ったら生はWWWだ",
+      "color": "gold",
+      "condition": "WWW/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900674
+    },
+    {
+      "name": "文武両道人望激アツプリンセス",
+      "color": "silver",
+      "condition": "ハッピーエンドをはじめから/EXPERT/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900675
+    },
+    {
+      "name": "星詠み",
+      "color": "platina",
+      "condition": "Stellar Stellar/自分勝手Dazzling/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900676
+    },
+    {
+      "name": "月の表面は最低な落書きでいっぱいだー！",
+      "color": "gold",
+      "condition": "㋰責任集合体/MASTER/FULL COMBO達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900677
+    },
+    {
+      "name": "月の魔法でその目に映るのなら灰になってしまってもいい",
+      "color": "platina",
+      "condition": "ハルシナイト/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900678
+    },
+    {
+      "name": "月夜に弔う真紅の徒花",
+      "color": "silver",
+      "condition": "幻想症候群/EXPERT/FULL COMBO",
+      "page": "楽曲プレイ称号一覧",
+      "section": "FULL COMBO",
+      "id": 900679
+    },
+    {
+      "name": "朝の四時よ！これから走りに出るんでしょ？",
+      "color": "silver",
+      "condition": "Fighting My Way/4回プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900680
+    },
+    {
+      "name": "未来はあなたの手の中に",
+      "color": "rainbow",
+      "condition": "Melodiniq/ULTIMA以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900681
+    },
+    {
+      "name": "朱雀*8",
+      "color": "silver",
+      "condition": "Elemental Creation/FLOWER/Evans/EXPERT/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900682
+    },
+    {
+      "name": "桜な曲",
+      "color": "platina",
+      "condition": "千本桜/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900683
+    },
+    {
+      "name": "機巧少女",
+      "color": "platina",
+      "condition": "回レ！雪月花/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900684
+    },
+    {
+      "name": "歌う 未来の歌を 今 ありのまま",
+      "color": "platina",
+      "condition": "Worlders/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900685
+    },
+    {
+      "name": "永遠の紅い幼き月",
+      "color": "silver",
+      "condition": "緋色のDance/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900686
+    },
+    {
+      "name": "漏れは音ゲーが好きだから",
+      "color": "silver",
+      "condition": "風呂入るプロファイル/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900687
+    },
+    {
+      "name": "狐じゃい！",
+      "color": "gold",
+      "condition": "Say!ファンファーレ!/つっぱれ！にゃんきー魂/猫祭り/MASTER以下全て/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900688
+    },
+    {
+      "name": "皆皆 御唱和あれ！",
+      "color": "platina",
+      "condition": "ビビデバ/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900689
+    },
+    {
+      "name": "私はもうキミだけの、一番星なんです。",
+      "color": "platina",
+      "condition": "First Twinkle/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900690
+    },
+    {
+      "name": "突撃！侵略！制覇！",
+      "color": "silver",
+      "condition": "One with One (Eden ver.)/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900691
+    },
+    {
+      "name": "第3芸能課*7",
+      "color": "silver",
+      "condition": "よりみちリトルスター/EXPERT/RANK S達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900692
+    },
+    {
+      "name": "誰よ、こんな難しいの作った奴は！",
+      "color": "platina",
+      "condition": "Invitation/ULTIMA/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900693
+    },
+    {
+      "name": "譜面に負けないように",
+      "color": "gold",
+      "condition": "ウニ/MASTER/RANK SSS達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "指定RANK達成",
+      "id": 900694
+    },
+    {
+      "name": "赤信号にずっと従順です。",
+      "color": "normal",
+      "condition": "ダイダイダイダイダイキライ/デンジャースキル発動",
+      "page": "楽曲プレイ称号一覧",
+      "section": "デンジャースキル発動(強制終了)",
+      "id": 900695
+    },
+    {
+      "name": "鈴持ち*25",
+      "color": "silver",
+      "condition": "▲MEW▲△MEW△CAKE/1人/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900696
+    },
+    {
+      "name": "雑魚～",
+      "color": "normal",
+      "condition": "ラヴィ/BASIC/デンジャースキル発動",
+      "page": "楽曲プレイ称号一覧",
+      "section": "デンジャースキル発動(強制終了)",
+      "id": 900697
+    },
+    {
+      "name": "震えて眠れ…*19",
+      "color": "silver",
+      "condition": "Invisible Frenzy/MASTER/プレイ中に1回MISS",
+      "page": "楽曲プレイ称号一覧",
+      "section": "1回MISS",
+      "id": 900698
+    },
+    {
+      "name": "震撼しやがれ愚民ども！",
+      "color": "silver",
+      "condition": "BRAND NEW STARS!! (ALKALOID ver.)/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900699
+    },
+    {
+      "name": "騒霊のキーボーディスト",
+      "color": "silver",
+      "condition": "Music Evolution/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900700
+    },
+    {
+      "name": "騒霊のトランペッター",
+      "color": "silver",
+      "condition": "Music Evolution/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900701
+    },
+    {
+      "name": "騒霊のヴァイオリニスト",
+      "color": "silver",
+      "condition": "Music Evolution/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900702
+    },
+    {
+      "name": "高鳴る気持ちが抑えられない！*28",
+      "color": "silver",
+      "condition": "エイリアンエイリアン/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900703
+    },
+    {
+      "name": "＊おわりだ。",
+      "color": "platina",
+      "condition": "夢と希望/MASTER以下全て/ALL JUSTICE達成",
+      "page": "楽曲プレイ称号一覧",
+      "section": "ALL JUSTICE",
+      "id": 900704
+    },
+    {
+      "name": "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊",
+      "color": "silver",
+      "condition": "1クレジット中、全て人マニアをプレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900705
+    },
+    {
+      "name": "～looking for happiness～",
+      "color": "silver",
+      "condition": "Clover Heart's/MASTER以下全て/プレイ",
+      "page": "楽曲プレイ称号一覧",
+      "section": "プレイ",
+      "id": 900706
+    },
+    {
+      "name": "(イロドリミドリキャラクター名)",
+      "color": "gold",
+      "condition": "各イロドリミドリキャラクターの特定キャラの合計RANKが一定以上到達※全14種、入手条件の欄には「クエストRANK進捗50%到達」と記載されている",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "キャラクターRANK",
+      "id": 900707
+    },
+    {
+      "name": "(キャラクター名)",
+      "color": "rainbow",
+      "condition": "ゲキチュウマイオリジナルキャラクター(一部除く)がRANK200に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "キャラクターRANK",
+      "id": 900708
+    },
+    {
+      "name": "(キャラクター名)*7",
+      "color": "platina",
+      "condition": "ゲキチュウマイオリジナルキャラクター(一部除く)がRANK150に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "キャラクターRANK",
+      "id": 900709
+    },
+    {
+      "name": "(都道府県名)に行ってきました",
+      "color": "normal",
+      "condition": "その都道府県でCHUNITHMを1回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900710
+    },
+    {
+      "name": "(都道府県名)勢",
+      "color": "silver",
+      "condition": "その都道府県でCHUNITHMを3回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900711
+    },
+    {
+      "name": "10都道府県制覇！！",
+      "color": "silver",
+      "condition": "10都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900712
+    },
+    {
+      "name": "15都道府県制覇！！",
+      "color": "silver",
+      "condition": "15都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900713
+    },
+    {
+      "name": "2024/12/12～",
+      "color": "",
+      "condition": "称号名から「♡」の記号が削除され、称号のレアリティが「スペシャル称号*8」に変更された。また、称号の両端に翼のような装飾がつくようになった。",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "キャラクターRANK",
+      "id": 900714
+    },
+    {
+      "name": "2024/4/1(称号実装)～8/7",
+      "color": "",
+      "condition": "この時の称号名は全て(イロドリミドリメンバー名)",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "キャラクターRANK",
+      "id": 900715
+    },
+    {
+      "name": "2024/8/8～12/11",
+      "color": "",
+      "condition": "称号名の両端に「♡」の記号が付くように変更される。レアリティが高くなる度に♡の記号が両端に2つ及び3つと増えていく。例:プラチナ称号の「明坂 芹菜」→「♡♡ 明坂 芹菜 ♡♡」",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "キャラクターRANK",
+      "id": 900716
+    },
+    {
+      "name": "2025/4/1～",
+      "color": "",
+      "condition": "HaNaMiNa、舞ヶ原シンセ研究会のメンバーがクエストの対象に追加された。",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "キャラクターRANK",
+      "id": 900717
+    },
+    {
+      "name": "20都道府県制覇！！！",
+      "color": "silver",
+      "condition": "20都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900718
+    },
+    {
+      "name": "25都道府県制覇！！！",
+      "color": "silver",
+      "condition": "25都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900719
+    },
+    {
+      "name": "30都道府県制覇！！！！",
+      "color": "gold",
+      "condition": "30都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900720
+    },
+    {
+      "name": "35都道府県制覇！！！！",
+      "color": "gold",
+      "condition": "35都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900721
+    },
+    {
+      "name": "3都道府県制覇！",
+      "color": "silver",
+      "condition": "3都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900722
+    },
+    {
+      "name": "40都道府県制覇！！！！！",
+      "color": "gold",
+      "condition": "40都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900723
+    },
+    {
+      "name": "45都道府県制覇！！！！！",
+      "color": "gold",
+      "condition": "45都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900724
+    },
+    {
+      "name": "5都道府県制覇！",
+      "color": "silver",
+      "condition": "5都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900725
+    },
+    {
+      "name": "7都道府県制覇！",
+      "color": "silver",
+      "condition": "7都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900726
+    },
+    {
+      "name": "Beyond the Rainbow ††Mate††",
+      "color": "platina",
+      "condition": "『CHUNITHM Mate』でRATING 17.00達成",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "レーティング",
+      "id": 900727
+    },
+    {
+      "name": "CHUNITHM Mate",
+      "color": "platina",
+      "condition": "Mate ep.∞エリア10完走",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "マップ（Mate）",
+      "id": 900728
+    },
+    {
+      "name": "Just Monika.",
+      "color": "platina",
+      "condition": "クエスト(ドキドキ文芸部)",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "イベント / チュウニズムクエスト",
+      "id": 900729
+    },
+    {
+      "name": "Nasturtium - 100days of Mate",
+      "color": "gold",
+      "condition": "『CHUNITHM Mate』でログイン100日達成",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "継続ログイン(Mate)",
+      "id": 900730
+    },
+    {
+      "name": "Over the Rainbow †Mate†",
+      "color": "platina",
+      "condition": "『CHUNITHM Mate』でRATING 16.00達成",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "レーティング",
+      "id": 900731
+    },
+    {
+      "name": "Sっ気少女のお気に入り・妖艶な微笑み",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900732
+    },
+    {
+      "name": "Vermilion - 50days of Mate",
+      "color": "silver",
+      "condition": "『CHUNITHM Mate』でログイン50日達成",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "継続ログイン(Mate)",
+      "id": 900733
+    },
+    {
+      "name": "↓↓↓↓↓わしが育てた↓↓↓↓↓*11",
+      "color": "silver",
+      "condition": "2006年4月26日に開かれた「虎仙会」の懇親パーティーの目玉企画「星野SDと田淵解説トークショー」における、星野仙一氏の「大半の中日の選手は私が育てたんだもの、力のある選手ばかりだよ。」という発言から。その後なんJを中心にこの世のありとあらゆる一流と呼ばれる物に対し「〇〇はわしが育てた」というテンプレが用いられるようになった。",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "称号元ネタまとめ",
+      "id": 900734
+    },
+    {
+      "name": "↓↓↓↓↓わしが育てた↓↓↓↓↓*6",
+      "color": "platina",
+      "condition": "いずれかのキャラクターがRANK50に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "キャラクターRANK",
+      "id": 900735
+    },
+    {
+      "name": "あいつパラダイスじゃん",
+      "color": "platina",
+      "condition": "Mate ep.∞エリア6完走",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "マップ（Mate）",
+      "id": 900736
+    },
+    {
+      "name": "あかりとこれからもずっと一緒！",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900737
+    },
+    {
+      "name": "いつだって何かに逆らい生きてきた",
+      "color": "silver",
+      "condition": "バトルランクがB1に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900738
+    },
+    {
+      "name": "いつだって救われたいので･･･",
+      "color": "platina",
+      "condition": "Mate ep.∞エリア5完走",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "マップ（Mate）",
+      "id": 900739
+    },
+    {
+      "name": "お金ほしいからなあ～",
+      "color": "platina",
+      "condition": "Mate ep.∞エリア8完走",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "マップ（Mate）",
+      "id": 900740
+    },
+    {
+      "name": "ぐーたらゲーマーのお世話係・年365日",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900741
+    },
+    {
+      "name": "この戦い…保険は効くのか…？",
+      "color": "gold",
+      "condition": "バトルランクがA2に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900742
+    },
+    {
+      "name": "そろそろ頂点取りに行きます",
+      "color": "silver",
+      "condition": "全国対戦を80回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900743
+    },
+    {
+      "name": "たとえ立ち止まったとしても 立ち止まってねーことにするんで",
+      "color": "gold",
+      "condition": "バトルランクがA3に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900744
+    },
+    {
+      "name": "ちびっ子モンスターのバンドヒーロー・世界ツアー",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900745
+    },
+    {
+      "name": "ちょっと思想の話していい？",
+      "color": "platina",
+      "condition": "Mate ep.∞エリア4完走",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "マップ（Mate）",
+      "id": 900746
+    },
+    {
+      "name": "つむぎと二人で大人の階段を",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900747
+    },
+    {
+      "name": "なんかマウントとりたいな～",
+      "color": "silver",
+      "condition": "バトルランクがC3に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900748
+    },
+    {
+      "name": "にゃんちゃんのフルーツ同盟・完熟",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900749
+    },
+    {
+      "name": "めっちゃ精度出ちゃう",
+      "color": "platina",
+      "condition": "Mate ep.∞エリア2完走",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "マップ（Mate）",
+      "id": 900750
+    },
+    {
+      "name": "エリート娘の頼れるパートナー・相談役",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900751
+    },
+    {
+      "name": "エレガントに舞い、クレイジーに酔う",
+      "color": "gold",
+      "condition": "バトルランクがS3に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900752
+    },
+    {
+      "name": "カレー喫茶あけさかの味見担当",
+      "color": "rainbow",
+      "condition": "メイトルーム/メイト『明坂 芹菜』/親密度ランク 200",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "メイトルーム",
+      "id": 900753
+    },
+    {
+      "name": "ザンギュラのスーパーウリアッ上",
+      "color": "platina",
+      "condition": "クエスト(ストリートファイター6)",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "イベント / チュウニズムクエスト",
+      "id": 900754
+    },
+    {
+      "name": "セツナと共に覇道を歩む者",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900755
+    },
+    {
+      "name": "チュウニの為なら何でもするんだよ※",
+      "color": "platina",
+      "condition": "全国対戦のスタッフマッチングイベントの際にやる気を見せた原Dの発言。以後、この発言をを盾に「だってチュウニの為なら何でもするんですよね？」との名目で原Dにいろいろお願いするようになったという。※8周年記念スタッフコメントより",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "称号元ネタまとめ",
+      "id": 900756
+    },
+    {
+      "name": "チュウニズムから逃げるな",
+      "color": "silver",
+      "condition": "バトルランクがD1に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900757
+    },
+    {
+      "name": "チュウニズムは音ゲーじゃない、概念だ",
+      "color": "platina",
+      "condition": "バトルランクがSS3に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900758
+    },
+    {
+      "name": "ツンツン娘の防犯ブザー担当・120dB",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900759
+    },
+    {
+      "name": "ブサかわキャラハンターの欠けた半身",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900760
+    },
+    {
+      "name": "ボクの護りたいもの、護りたい大切な家族",
+      "color": "rainbow",
+      "condition": "メイトルーム/メイト『ナイ』/親密度ランク 200",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "メイトルーム",
+      "id": 900761
+    },
+    {
+      "name": "メガネ師範の門下生・有望株",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900762
+    },
+    {
+      "name": "ライバルと書いて友と呼ぶ",
+      "color": "silver",
+      "condition": "全国対戦を20回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900763
+    },
+    {
+      "name": "一騎当千",
+      "color": "platina",
+      "condition": "全国対戦を1000回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900764
+    },
+    {
+      "name": "七転八起",
+      "color": "platina",
+      "condition": "全国対戦を7000回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900765
+    },
+    {
+      "name": "万夫不当",
+      "color": "rainbow",
+      "condition": "全国対戦を10000回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900766
+    },
+    {
+      "name": "三権分立",
+      "color": "platina",
+      "condition": "全国対戦を3000回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900767
+    },
+    {
+      "name": "不思議少女の着ぐるみフレンズ・ベストフレンド",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900768
+    },
+    {
+      "name": "世界一マップ進行が下手",
+      "color": "platina",
+      "condition": "Mate ep.∞エリア9完走",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "マップ（Mate）",
+      "id": 900769
+    },
+    {
+      "name": "世界征服に最も近いペンギン",
+      "color": "platina",
+      "condition": "バトルランクがSS1に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900770
+    },
+    {
+      "name": "世界征服推進団体の幹部",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900771
+    },
+    {
+      "name": "世界襲撃♥ハネムーン！",
+      "color": "silver",
+      "condition": "アイテム交換所 20pt(2023/5/11～)",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "アイテム交換所",
+      "id": 900772
+    },
+    {
+      "name": "九分九厘",
+      "color": "platina",
+      "condition": "全国対戦を9000回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900773
+    },
+    {
+      "name": "二束三文",
+      "color": "platina",
+      "condition": "全国対戦を2000回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900774
+    },
+    {
+      "name": "五臓六腑",
+      "color": "platina",
+      "condition": "全国対戦を5000回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900775
+    },
+    {
+      "name": "人気レイヤーの敏腕マネージャー・ベテラン",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900776
+    },
+    {
+      "name": "今日も健康でござるなw",
+      "color": "platina",
+      "condition": "Mate ep.∞エリア1完走",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "マップ（Mate）",
+      "id": 900777
+    },
+    {
+      "name": "体は闘争を求める",
+      "color": "silver",
+      "condition": "全国対戦を60回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900778
+    },
+    {
+      "name": "何食って生きてきたんすか",
+      "color": "platina",
+      "condition": "Mate ep.∞エリア3完走",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "マップ（Mate）",
+      "id": 900779
+    },
+    {
+      "name": "俺たちの聖域(サンクチュアリ)",
+      "color": "platina",
+      "condition": "バトルランクがエリートに到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900780
+    },
+    {
+      "name": "俺は目指さない、目指されるんだ",
+      "color": "gold",
+      "condition": "バトルランクがS1に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900781
+    },
+    {
+      "name": "俺自身がカリスマみたいなとこあるじゃないですか",
+      "color": "platina",
+      "condition": "バトルランクが盟3に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900782
+    },
+    {
+      "name": "俺自身が狂っていた",
+      "color": "platina",
+      "condition": "Mate ep.∞エリア7完走",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "マップ（Mate）",
+      "id": 900783
+    },
+    {
+      "name": "全国対戦見習い",
+      "color": "silver",
+      "condition": "全国対戦を10回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900784
+    },
+    {
+      "name": "八方美人",
+      "color": "platina",
+      "condition": "全国対戦を8000回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900785
+    },
+    {
+      "name": "六法全書",
+      "color": "platina",
+      "condition": "全国対戦を6000回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900786
+    },
+    {
+      "name": "初見で癖付いた",
+      "color": "silver",
+      "condition": "バトルランクがD2に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900787
+    },
+    {
+      "name": "力isパワー",
+      "color": "silver",
+      "condition": "全国対戦を40回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900788
+    },
+    {
+      "name": "勇猛果敢",
+      "color": "gold",
+      "condition": "全国対戦を200回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900789
+    },
+    {
+      "name": "千夏と毎日ぎゅーーってしよ？",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900790
+    },
+    {
+      "name": "向日葵少女のご近所さん・仲良し",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900791
+    },
+    {
+      "name": "咲姫と紡ぐ二人のこれから",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900792
+    },
+    {
+      "name": "四捨五入",
+      "color": "platina",
+      "condition": "全国対戦を4000回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900793
+    },
+    {
+      "name": "天下統一*10",
+      "color": "rainbow",
+      "condition": "全ての都道府県でCHUNITHMをプレイ／1周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900794
+    },
+    {
+      "name": "小星とだらだらゲーム生活",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900795
+    },
+    {
+      "name": "彩華が赤面する秘密の関係",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900796
+    },
+    {
+      "name": "我々に法律は合わない",
+      "color": "silver",
+      "condition": "バトルランクがC2に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900797
+    },
+    {
+      "name": "推しメン！*5",
+      "color": "silver",
+      "condition": "いずれかのキャラクターがRANK15に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "キャラクターRANK",
+      "id": 900798
+    },
+    {
+      "name": "新・10都道府県制覇！！",
+      "color": "silver",
+      "condition": "10都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900799
+    },
+    {
+      "name": "新・15都道府県制覇！！",
+      "color": "silver",
+      "condition": "15都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900800
+    },
+    {
+      "name": "新・20都道府県制覇！！！",
+      "color": "silver",
+      "condition": "20都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900801
+    },
+    {
+      "name": "新・25都道府県制覇！！！",
+      "color": "silver",
+      "condition": "25都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900802
+    },
+    {
+      "name": "新・30都道府県制覇！！！！",
+      "color": "gold",
+      "condition": "30都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900803
+    },
+    {
+      "name": "新・35都道府県制覇！！！！",
+      "color": "gold",
+      "condition": "35都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900804
+    },
+    {
+      "name": "新・3都道府県制覇！",
+      "color": "silver",
+      "condition": "3都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900805
+    },
+    {
+      "name": "新・40都道府県制覇！！！！！",
+      "color": "gold",
+      "condition": "40都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900806
+    },
+    {
+      "name": "新・45都道府県制覇！！！！！",
+      "color": "gold",
+      "condition": "45都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900807
+    },
+    {
+      "name": "新・5都道府県制覇！",
+      "color": "silver",
+      "condition": "5都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900808
+    },
+    {
+      "name": "新・7都道府県制覇！",
+      "color": "silver",
+      "condition": "7都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900809
+    },
+    {
+      "name": "新・天下統一",
+      "color": "rainbow",
+      "condition": "全ての都道府県でCHUNITHMをプレイ／2周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900810
+    },
+    {
+      "name": "早く上がってこいよ、俺のとこまで",
+      "color": "platina",
+      "condition": "バトルランクがSS2に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900811
+    },
+    {
+      "name": "明鏡止水",
+      "color": "gold",
+      "condition": "全国対戦を800回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900812
+    },
+    {
+      "name": "春菜の膝枕で微睡む昼下がり",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900813
+    },
+    {
+      "name": "春菜特製レシピの味見役・おかわり",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900814
+    },
+    {
+      "name": "昨日の自分に勝つために頑張るのが、ペンギンとして生まれた定め",
+      "color": "silver",
+      "condition": "バトルランクがB2に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900815
+    },
+    {
+      "name": "時期",
+      "color": "",
+      "condition": "内容",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "キャラクターRANK",
+      "id": 900816
+    },
+    {
+      "name": "有栖のお世話係に永久就職",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900817
+    },
+    {
+      "name": "柚子と一緒に☆はっぴっぴーす♪",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900818
+    },
+    {
+      "name": "柚子専属アメちゃん補充部隊・隊長",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900819
+    },
+    {
+      "name": "梨緒が二人きりだとデレるんだが",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900820
+    },
+    {
+      "name": "椿に生涯からかわれる権利",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900821
+    },
+    {
+      "name": "楓と重ねる心安らかな時間",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900822
+    },
+    {
+      "name": "気を抜くとすぐにペンギンになりがち",
+      "color": "silver",
+      "condition": "バトルランクがB3に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900823
+    },
+    {
+      "name": "燦・10都道府県制覇！！",
+      "color": "silver",
+      "condition": "10都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900824
+    },
+    {
+      "name": "燦・15都道府県制覇！！",
+      "color": "silver",
+      "condition": "15都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900825
+    },
+    {
+      "name": "燦・20都道府県制覇！！！",
+      "color": "silver",
+      "condition": "20都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900826
+    },
+    {
+      "name": "燦・25都道府県制覇！！！",
+      "color": "silver",
+      "condition": "25都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900827
+    },
+    {
+      "name": "燦・30都道府県制覇！！！！",
+      "color": "gold",
+      "condition": "30都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900828
+    },
+    {
+      "name": "燦・35都道府県制覇！！！！",
+      "color": "gold",
+      "condition": "35都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900829
+    },
+    {
+      "name": "燦・3都道府県制覇！",
+      "color": "silver",
+      "condition": "3都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900830
+    },
+    {
+      "name": "燦・40都道府県制覇！！！！！",
+      "color": "gold",
+      "condition": "40都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900831
+    },
+    {
+      "name": "燦・45都道府県制覇！！！！！",
+      "color": "gold",
+      "condition": "45都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900832
+    },
+    {
+      "name": "燦・5都道府県制覇！",
+      "color": "silver",
+      "condition": "5都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900833
+    },
+    {
+      "name": "燦・7都道府県制覇！",
+      "color": "silver",
+      "condition": "7都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900834
+    },
+    {
+      "name": "燦・天下統一",
+      "color": "rainbow",
+      "condition": "全ての都道府県でCHUNITHMをプレイ／3周目",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国行脚",
+      "id": 900835
+    },
+    {
+      "name": "百戦錬磨",
+      "color": "gold",
+      "condition": "全国対戦を100回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900836
+    },
+    {
+      "name": "神算鬼謀",
+      "color": "gold",
+      "condition": "全国対戦を600回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900837
+    },
+    {
+      "name": "純情ギャルの遊び友達・ズッ友",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900838
+    },
+    {
+      "name": "緊張は成長痛",
+      "color": "silver",
+      "condition": "バトルランクがC1に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900839
+    },
+    {
+      "name": "美亜と営むニャーベラスな日々",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900840
+    },
+    {
+      "name": "自称・超絶最強ギャラクティカ美少女の永遠のライバル",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900841
+    },
+    {
+      "name": "茜と共に世界を支配する者",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900842
+    },
+    {
+      "name": "莉玖とブドーカンLIVEで大暴れ！",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900843
+    },
+    {
+      "name": "葵と過ごす穏やかな日常",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900844
+    },
+    {
+      "name": "輝きすぎて逆光で写らないときがある",
+      "color": "gold",
+      "condition": "バトルランクがS2に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900845
+    },
+    {
+      "name": "途中までよかった",
+      "color": "gold",
+      "condition": "バトルランクがA1に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900846
+    },
+    {
+      "name": "金剛不壊",
+      "color": "gold",
+      "condition": "全国対戦を400回プレイ",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900847
+    },
+    {
+      "name": "音ゲーは闘いなんですよ",
+      "color": "platina",
+      "condition": "バトルランクが盟2に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900848
+    },
+    {
+      "name": "音撃",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900849
+    },
+    {
+      "name": "頑張り屋さんのNO.1サポーター・リーダー",
+      "color": "",
+      "condition": "オンゲキで同名称号を入手",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "オンゲキ連動",
+      "id": 900850
+    },
+    {
+      "name": "魂が入ってない感じがする",
+      "color": "platina",
+      "condition": "バトルランクが盟1に到達",
+      "page": "進行度・他ゲーム連動称号一覧",
+      "section": "全国対戦",
+      "id": 900851
+    }
+  ]
+}
