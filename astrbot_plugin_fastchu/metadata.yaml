@@ -1,0 +1,8 @@
+name: astrbot_plugin_fastchu
+display_name: FastChu 查歌
+desc: 中二节奏（CHUNITHM）查歌 / 查称号。直接发 /歌曲名 或 /别名 即可查，含曲师、BPM、分类、版本与相关特殊称号（标出颜色与所需条件）；国服/日服定数不同时同时标注。数据来自落雪查分器公共接口，无需任何密钥。
+short_desc: 中二节奏查歌与查称号
+version: 0.1.0
+author: FastChu
+repo: https://maimai.lxns.net/docs/api/chunithm
+astrbot_version: ">=4.0.0"

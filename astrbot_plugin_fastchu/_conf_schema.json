@@ -1,0 +1,21 @@
+{
+  "notes_mode": {
+    "type": "string",
+    "description": "物量显示",
+    "hint": "取消 = 详情里不显示物量；简洁 = 只给总物量（推荐，排版清爽）；完整 = 总物量 + TAP/HOLD/SLIDE/AIR/FLICK 分项",
+    "default": "compact",
+    "options": ["off", "compact", "full"]
+  },
+  "jacket_separate": {
+    "type": "bool",
+    "description": "曲绘单独发一条消息",
+    "hint": "QQ 里图文混排的图片会显示得偏小；开启后正文与曲绘分两条发，图片通常更大（代价是多一条消息）",
+    "default": false
+  },
+  "related_title_limit": {
+    "type": "int",
+    "description": "相关特殊称号最多显示几个",
+    "hint": "曲目详情里最多列几个相关称号，默认 8",
+    "default": 8
+  }
+}
