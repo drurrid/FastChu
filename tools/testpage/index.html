@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 内联空 favicon：避免浏览器额外请求 /favicon.ico 打日志 -->
+<link rel="icon" href="data:,">
+<title>FastChu 测试页</title>
+<style>
+  :root {
+    --bg: #f2f3f5;
+    --panel: #ffffff;
+    --line: #e3e5e8;
+    --text: #1f2329;
+    --muted: #7a8290;
+    --accent: #1a6cf5;
+    --accent-soft: #e8f0ff;
+    --bot: #ffffff;
+    --warn: #c0392b;
+    --ok: #1a9e6a;
+    --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Cascadia Mono", monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 14px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 20px 16px 96px; }
+
+  header h1 { font-size: 20px; margin: 0 0 4px; letter-spacing: .3px; }
+  header h1 .tag {
+    font-size: 11px; font-weight: 600; color: var(--accent);
+    background: var(--accent-soft); border-radius: 999px; padding: 2px 8px;
+    vertical-align: 2px; margin-left: 6px;
+  }
+  header p { margin: 0; color: var(--muted); font-size: 12.5px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 0; }
+  .chip {
+    font-size: 12px; background: var(--panel); border: 1px solid var(--line);
+    border-radius: 999px; padding: 3px 10px; color: var(--muted);
+  }
+  .chip b { color: var(--text); font-weight: 600; }
+  .chip.bad { border-color: #f3c9c4; color: var(--warn); }
+  .chip.good { border-color: #c4e6d7; color: var(--ok); }
+
+  .tabs { display: flex; gap: 4px; margin: 18px 0 10px; flex-wrap: wrap; }
+  .tab {
+    border: 1px solid var(--line); background: var(--panel); color: var(--text);
+    border-radius: 8px; padding: 7px 14px; font-size: 13.5px; cursor: pointer;
+  }
+  .tab:hover { border-color: #c9ced6; }
+  .tab.on { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+  .tab code { font-family: var(--mono); font-size: 12px; opacity: .75; }
+  .tab.on code { opacity: .9; }
+
+  .composer {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
+    padding: 12px; box-shadow: 0 1px 2px rgba(0,0,0,.03);
+  }
+  .row { display: flex; gap: 8px; }
+  input[type=text] {
+    flex: 1; min-width: 0; font-size: 14.5px; padding: 10px 12px;
+    border: 1px solid var(--line); border-radius: 8px; background: #fbfbfc; color: var(--text);
+  }
+  input[type=text]:focus { outline: 2px solid var(--accent-soft); border-color: var(--accent); }
+  input[type=text]:disabled { background: #f6f7f8; color: var(--muted); }
+  button.send {
+    border: 0; background: var(--accent); color: #fff; font-weight: 600;
+    border-radius: 8px; padding: 0 20px; font-size: 14px; cursor: pointer;
+  }
+  button.send:disabled { background: #b9c6dc; cursor: default; }
+  .opts { display: flex; align-items: center; gap: 14px; margin-top: 9px; font-size: 12.5px; color: var(--muted); flex-wrap: wrap; }
+  .opts label { display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
+  .examples { margin-top: 9px; display: flex; flex-wrap: wrap; gap: 6px; }
+  .ex {
+    font-family: var(--mono); font-size: 11.5px; background: #f6f7f8; border: 1px solid var(--line);
+    border-radius: 6px; padding: 3px 8px; cursor: pointer; color: #4a5261;
+  }
+  .ex:hover { background: var(--accent-soft); border-color: #bcd4fb; color: var(--accent); }
+
+  #log { margin-top: 16px; display: flex; flex-direction: column; gap: 14px; }
+  .turn { display: flex; flex-direction: column; gap: 6px; }
+  .me { align-self: flex-end; max-width: 85%; }
+  .me .bubble {
+    background: var(--accent); color: #fff; border-radius: 10px 10px 2px 10px;
+    padding: 8px 12px; font-family: var(--mono); font-size: 13px; white-space: pre-wrap;
+    word-break: break-word;
+  }
+  .bot { align-self: flex-start; max-width: 100%; width: 100%; }
+  .bot .bubble {
+    background: var(--bot); border: 1px solid var(--line); border-radius: 10px 10px 10px 2px;
+    padding: 11px 13px; white-space: pre-wrap; word-break: break-word;
+  }
+  .bot .bubble img {
+    display: block; margin-top: 12px; max-width: 300px; width: 100%;
+    border-radius: 8px; border: 1px solid var(--line); background: #f6f7f8;
+  }
+  .bot .bubble.error { border-color: #f0c4be; background: #fff8f7; }
+  .imgfail { margin-top: 8px; font-size: 12px; color: var(--warn); }
+  .imgfail a { color: var(--warn); }
+
+  .meta { font-size: 11.5px; color: var(--muted); padding-left: 3px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .meta .k { font-family: var(--mono); }
+  .meta details summary { cursor: pointer; color: var(--accent); }
+  .meta pre {
+    margin: 6px 0 0; padding: 9px; background: #f6f7f8; border: 1px solid var(--line);
+    border-radius: 7px; font-family: var(--mono); font-size: 11.5px; white-space: pre-wrap;
+    word-break: break-word; max-height: 260px; overflow: auto;
+  }
+  .loading { color: var(--muted); font-size: 13px; }
+
+  footer {
+    position: fixed; left: 0; right: 0; bottom: 0; background: rgba(242,243,245,.94);
+    border-top: 1px solid var(--line); padding: 9px 16px; font-size: 12px; color: var(--muted);
+    text-align: center; backdrop-filter: blur(6px);
+  }
+  footer code { font-family: var(--mono); }
+  #toast {
+    position: fixed; left: 50%; top: 18px; transform: translateX(-50%);
+    background: #1f2329; color: #fff; font-size: 12.5px; border-radius: 8px;
+    padding: 8px 14px; opacity: 0; pointer-events: none; transition: opacity .18s;
+  }
+  #toast.on { opacity: .94; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>FastChu<span class="tag">测试页</span></h1>
+    <p>中二节奏查歌 · 与 QQ 机器人<b>共用同一套逻辑</b>，这里看到的消息就是群里会发的。</p>
+    <div class="chips" id="chips"><span class="chip">正在载入曲库…</span></div>
+  </header>
+
+  <div class="tabs" id="tabs">
+    <button class="tab on" data-cmd="song">查歌 <code>/歌曲名</code></button>
+    <button class="tab" data-cmd="title">称号 <code>&lt;关键词&gt;</code></button>
+    <button class="tab" data-cmd="help">查歌帮助</button>
+  </div>
+
+  <div class="composer">
+    <div class="row">
+      <input type="text" id="input" placeholder="World Vanquisher" autocomplete="off" spellcheck="false">
+      <button class="send" id="send">发送</button>
+    </div>
+    <div class="opts">
+      <label>物量显示
+        <select id="notesMode">
+          <option value="off">取消</option>
+          <option value="compact" selected>简洁</option>
+          <option value="full">完整</option>
+        </select>
+      </label>
+      <span>（对应 <span class="k">FASTCHU_NOTES_MODE</span>，仅影响曲目详情）</span>
+      <span style="margin-left:auto"><button class="ex" id="refresh">重抓曲库</button></span>
+    </div>
+    <div class="examples" id="examples"></div>
+  </div>
+
+  <div id="log"></div>
+</div>
+
+<footer>
+  只监听本机回环地址 · 数据来自落雪查分器公共接口 · 与 QQ 侧共用
+  <code>fastchu.services.commands</code>
+</footer>
+<div id="toast"></div>
+
+<script>
+const CMD = {
+  song:  { label: "查歌", method: "song",  input: "World Vanquisher",
+           examples: ["Rebellion", "wv", "世征", "脑天", "#159", "#464", "ジングルベル", "world"] },
+  title: { label: "称号", method: "title", input: "Legend of VERSE",
+           examples: ["", "Legend of VERSE", "ラグナロク", "虹", "WEC", "少女が夢見た空の果て", "(^ω^)"] },
+  help:  { label: "查歌帮助", method: "help", input: "", examples: [] },
+};
+// 称号颜色中文标签（与 fastchu.models.TROPHY_COLOR_LABELS 保持一致）
+const COLOR_CN = {
+  normal: "普通", copper: "铜", silver: "银", gold: "金",
+  platina: "铂金", platinum: "铂金", rainbow: "虹", ultima: "究极", image: "图片",
+};
+let current = "song";
+const $ = (id) => document.getElementById(id);
+
+function toast(text) {
+  const el = $("toast");
+  el.textContent = text;
+  el.classList.add("on");
+  setTimeout(() => el.classList.remove("on"), 2200);
+}
+
+function setTab(cmd) {
+  current = cmd;
+  document.querySelectorAll(".tab").forEach((b) => b.classList.toggle("on", b.dataset.cmd === cmd));
+  const cfg = CMD[cmd];
+  const input = $("input");
+  input.value = "";
+  input.placeholder = cfg.input || "此命令不需要参数";
+  input.disabled = cmd === "help";
+  $("send").disabled = false;
+  $("send").textContent = cmd === "help" ? "查看" : "发送";
+  const box = $("examples");
+  box.innerHTML = "";
+  cfg.examples.forEach((ex) => {
+    const b = document.createElement("button");
+    b.className = "ex";
+    b.textContent = ex;
+    b.onclick = () => { input.value = ex; input.focus(); };
+    box.appendChild(b);
+  });
+  if (cmd === "help") run();
+}
+
+async function loadMeta() {
+  const chips = $("chips");
+  try {
+    const r = await fetch("/api/meta");
+    const d = await r.json();
+    if (!d.ok) {
+      chips.innerHTML = `<span class="chip bad">曲库未就绪：${d.error}</span>`;
+      return;
+    }
+    const c = d.catalog, s = d.settings;
+    const parts = [
+      `<span class="chip">曲库 <b>${c.songs}</b> 首 · 别名 <b>${c.aliases}</b> 条 · ${c.versions} 个版本</span>`,
+      `<span class="chip">当前版本 <b>${c.current_version_title}</b>（${c.current_version}）</span>`,
+    ];
+    if (c.titles) {
+      parts.push(
+        `<span class="chip good">称号 <b>${c.titles.total}</b> 个 · 特殊 <b>${c.titles.special}</b>（已排除固定 ${c.titles.excluded}）</span>`,
+        `<span class="chip">称号分色 <b>${Object.entries(c.titles.colors).map(([k, v]) => `${COLOR_CN[k] || k} ${v}`).join(" / ")}</b></span>`
+      );
+    } else {
+      parts.push(`<span class="chip bad">称号库未就绪：${c.titles_error || "未知原因"}</span>`);
+    }
+    parts.push(
+      `<span class="chip ${c.has_notes ? "good" : "bad"}">物量 ${c.has_notes ? "有" : "无"}</span>`,
+      `<span class="chip">曲绘模式 <b>${s.jacket_mode}</b></span>`,
+      `<span class="chip">单条上限 <b>${s.max_message_length}</b> 字</span>`,
+      `<span class="chip">v${d.version}</span>`
+    );
+    if (c.declared_version !== c.current_version) {
+      parts.push(`<span class="chip">版本表已声明 <b>${c.declared_version}</b>（尚无曲目）</span>`);
+    }
+    chips.innerHTML = parts.join("");
+  } catch (e) {
+    chips.innerHTML = `<span class="chip bad">无法连接测试页服务：${e}</span>`;
+  }
+}
+
+function bubbleFor(segment) {
+  if (segment.type === "image") {
+    const src = segment.data_uri || segment.url || "";
+    const img = document.createElement("img");
+    img.alt = "曲绘";
+    img.src = src;
+    if (!segment.data_uri) {
+      img.onerror = () => {
+        const note = document.createElement("div");
+        note.className = "imgfail";
+        note.innerHTML = `曲绘加载失败（url 模式由客户端自行下载，需要浏览器能访问 assets2.lxns.net）· <a href="${src}" target="_blank" rel="noreferrer">打开原图</a>`;
+        img.replaceWith(note);
+      };
+    }
+    return img;
+  }
+  return document.createTextNode(segment.text || "");
+}
+
+function addTurn(commandText, result) {
+  const log = $("log");
+
+  const me = document.createElement("div");
+  me.className = "turn me";
+  const mb = document.createElement("div");
+  mb.className = "bubble";
+  mb.textContent = commandText;
+  me.appendChild(mb);
+  log.appendChild(me);
+
+  const bot = document.createElement("div");
+  bot.className = "turn bot";
+
+  result.messages.forEach((segments, index) => {
+    const bubble = document.createElement("div");
+    bubble.className = "bubble" + (result.is_error ? " error" : "");
+    segments.forEach((seg) => bubble.appendChild(bubbleFor(seg)));
+    if (result.message_count > 1) {
+      const prefix = document.createElement("div");
+      prefix.style.cssText = "font-size:11px;color:#7a8290;margin-bottom:4px";
+      prefix.textContent = `第 ${index + 1}/${result.message_count} 条消息`;
+      bubble.prepend(prefix);
+    }
+    bot.appendChild(bubble);
+  });
+
+  const meta = document.createElement("div");
+  meta.className = "meta";
+  const segs = result.messages.map((m) => m.map((s) => s.type === "image" ? "image" : "text").join("+")).join(" | ");
+  meta.innerHTML =
+    `<span class="k">${result.kind}</span>` +
+    `<span>消息 <b>${result.message_count}</b> 条</span>` +
+    `<span>正文 <b>${result.char_count}</b> 字</span>` +
+    `<span>耗时 <b>${result.elapsed_ms}</b> ms</span>` +
+    `<span class="k">段: ${segs}</span>`;
+  const details = document.createElement("details");
+  const summary = document.createElement("summary");
+  summary.textContent = "原始文本";
+  const pre = document.createElement("pre");
+  pre.textContent = result.texts.map((t, i) => (result.message_count > 1 ? `── 第 ${i + 1} 条 ──\n${t}` : t)).join("\n\n");
+  details.appendChild(summary);
+  details.appendChild(pre);
+  meta.appendChild(details);
+  bot.appendChild(meta);
+
+  log.appendChild(bot);
+  bot.scrollIntoView({ behavior: "smooth", block: "nearest" });
+}
+
+async function run() {
+  const cfg = CMD[current];
+  const text = cfg.method === "help" ? "" : $("input").value.trim();
+  if (cfg.method !== "help" && !text) { toast("先输入点什么"); return; }
+
+  const commandText = cfg.method === "help" ? "/帮助" : `/${cfg.label} ${text}`;
+  const loading = document.createElement("div");
+  loading.className = "turn bot loading";
+  loading.textContent = "查询中…";
+  $("log").appendChild(loading);
+  $("send").disabled = true;
+
+  try {
+    const r = await fetch("/api/run", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ command: cfg.method, text, notes_mode: $("notesMode").value }),
+    });
+    const d = await r.json();
+    loading.remove();
+    if (!d.ok) { toast("查询失败"); return; }
+    addTurn(commandText, d.result);
+  } catch (e) {
+    loading.remove();
+    toast("请求失败：" + e);
+  } finally {
+    $("send").disabled = false;
+  }
+}
+
+document.querySelectorAll(".tab").forEach((b) => { b.onclick = () => setTab(b.dataset.cmd); });
+$("send").onclick = run;
+$("input").addEventListener("keydown", (e) => { if (e.key === "Enter") run(); });
+$("refresh").onclick = async () => {
+  toast("正在重新抓取曲库…");
+  const r = await fetch("/api/refresh", { method: "POST" });
+  const d = await r.json();
+  toast(d.ok ? "曲库已刷新" : "刷新失败：" + d.error);
+  loadMeta();
+};
+
+loadMeta();
+setTab("song");
+$("input").focus();
+</script>
+</body>
+</html>
