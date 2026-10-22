@@ -1,0 +1,34 @@
+# --- 本地环境 / 依赖 ---
+.venv/
+.pkgs/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# --- 本地配置 ---
+.env
+.env.local
+
+# --- 运行期缓存与产物 ---
+# 曲库缓存（可从公共接口重新抓取；仓库里的测试夹具在 tests/data/）
+data/cache/
+# 曲绘缓存（base64 模式才会用到）
+data/assets/
+data/out/
+# 导出的日服数据包（生成产物）
+exports/
+# AstrBot 运行时配置（含面板密码哈希等本机信息）
+data/cmd_config.json
+data/t2i_templates/
+data/temp/
+# 群友投稿的别名（运行时累积，不入库）
+data/aliases/local.json
+# 落雪 OAuth 授权记录（含访问/刷新令牌，等同登录凭证）
+data/auth/
+# 构建时写入的本机项目路径
+astrbot_plugin_fastchu/_paths.json
+.scratch/
+.pytest_cache/
+.ruff_cache/

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>FastChu 头像</title>
+<!--
+  FastChu 头像（中二企鹅）
+  纯 SVG，无外部依赖；浏览器打开即可，也可用无头浏览器截图为 PNG。
+
+  设计取向：小尺寸（30~40px）下也要能认出是企鹅，所以
+  * 身体比背景亮一档，并加一圈青色轮廓把它从背景里"拔"出来；
+  * 肚子、眼睛、闪电都做大做粗，避免缩小后糊掉。
+
+  改色只改 :root 里的变量。
+-->
+<style>
+  :root {
+    --bg-top: #071226;
+    --bg-bottom: #05202c;
+    --body-hi: #2a4b7d;       /* 身体高光（顶部受光） */
+    --body: #1b2f52;          /* 身体主色 */
+    --body-deep: #142340;     /* 身体暗部 */
+    --belly: #f2f9ff;
+    --beak: #ffb02e;
+    --beak-deep: #e8912a;
+    --accent: #3ce2ff;
+    --ring: rgba(90, 220, 255, .14);
+  }
+
+  /* 让图标自适应视口：这样任意窗口尺寸截图都能得到干净的整图 */
+  html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #05101c; }
+  svg { display: block; width: 100%; height: 100%; }
+</style>
+</head>
+<body>
+
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="FastChu">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   style="stop-color: var(--bg-top)" />
+      <stop offset="100%" style="stop-color: var(--bg-bottom)" />
+    </linearGradient>
+
+    <linearGradient id="bodyGrad" x1="0.3" y1="0" x2="0.75" y2="1">
+      <stop offset="0%"   style="stop-color: var(--body-hi)" />
+      <stop offset="55%"  style="stop-color: var(--body)" />
+      <stop offset="100%" style="stop-color: var(--body-deep)" />
+    </linearGradient>
+
+    <linearGradient id="bellyGrad" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%"   style="stop-color: #ffffff" />
+      <stop offset="100%" style="stop-color: var(--belly)" />
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"   style="stop-color: var(--accent); stop-opacity: .28" />
+      <stop offset="100%" style="stop-color: var(--accent); stop-opacity: 0" />
+    </radialGradient>
+
+    <clipPath id="frame">
+      <circle cx="256" cy="256" r="256" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- 背景 -->
+    <rect width="512" height="512" fill="url(#bg)" />
+
+    <!-- 节拍同心环 -->
+    <g fill="none" style="stroke: var(--ring)" stroke-width="5">
+      <circle cx="256" cy="256" r="152" />
+      <circle cx="256" cy="256" r="196" />
+      <circle cx="256" cy="256" r="240" />
+    </g>
+
+    <ellipse cx="256" cy="436" rx="235" ry="118" fill="url(#glow)" />
+
+    <!-- ===== 企鹅 ===== -->
+
+    <!-- 脚 -->
+    <g style="fill: var(--beak-deep)">
+      <ellipse cx="207" cy="412" rx="36" ry="18" />
+      <ellipse cx="305" cy="412" rx="36" ry="18" />
+    </g>
+    <g style="fill: var(--beak)">
+      <ellipse cx="207" cy="404" rx="36" ry="17" />
+      <ellipse cx="305" cy="404" rx="36" ry="17" />
+    </g>
+
+    <!-- 翅膀（先画，压在身体下面一点，露出外侧轮廓） -->
+    <g stroke="#5ad3f5" stroke-opacity=".18" stroke-width="3">
+      <path d="M160 232 C 132 268 130 330 152 366 C 160 378 176 376 180 362 C 188 330 176 266 170 236 Z"
+            fill="url(#bodyGrad)" />
+      <path d="M352 232 C 380 268 382 330 360 366 C 352 378 336 376 332 362 C 324 330 336 266 342 236 Z"
+            fill="url(#bodyGrad)" />
+    </g>
+
+    <!-- 身体：头身一体的蛋形 -->
+    <path d="M256 100
+             C 326 100 366 156 368 222
+             C 371 302 346 382 302 404
+             C 284 414 228 414 210 404
+             C 166 382 141 302 144 222
+             C 146 156 186 100 256 100 Z"
+          fill="url(#bodyGrad)"
+          stroke="#5ad3f5" stroke-opacity=".28" stroke-width="4" />
+
+    <!-- 顶部受光 -->
+    <path d="M256 104 C 316 104 352 150 358 200
+             C 330 150 300 132 256 132
+             C 212 132 182 150 154 200
+             C 160 150 196 104 256 104 Z"
+          fill="#ffffff" opacity=".07" />
+
+    <!-- 肚皮 -->
+    <ellipse cx="256" cy="296" rx="86" ry="102" fill="url(#bellyGrad)" />
+
+    <!-- 眼睛（放大，小图也认得出） -->
+    <ellipse cx="221" cy="194" rx="23" ry="26" fill="#f6fcff" />
+    <ellipse cx="291" cy="194" rx="23" ry="26" fill="#f6fcff" />
+    <ellipse cx="226" cy="199" rx="11" ry="14" fill="#081326" />
+    <ellipse cx="286" cy="199" rx="11" ry="14" fill="#081326" />
+    <circle cx="231" cy="190" r="4.2" fill="#ffffff" />
+    <circle cx="291" cy="190" r="4.2" fill="#ffffff" />
+
+    <!-- 眉毛：上移一点并收细，避免小尺寸下和眼睛糊成"眼镜" -->
+    <g style="fill: var(--accent)">
+      <path d="M200 150 L 240 143 L 240 153 L 200 160 Z" />
+      <path d="M312 150 L 272 143 L 272 153 L 312 160 Z" />
+    </g>
+
+    <!-- 嘴（放大一点，小图也看得见） -->
+    <path d="M256 212 L 227 232 L 256 252 L 285 232 Z" style="fill: var(--beak)" />
+    <path d="M256 232 L 227 232 L 256 252 L 285 232 Z" style="fill: var(--beak-deep)" />
+
+    <!-- 胸口闪电（放大加粗） -->
+    <path d="M276 276 L 224 342 L 252 342 L 234 398 L 292 330 L 262 330 Z"
+          style="fill: var(--accent)" />
+  </g>
+</svg>
+
+</body>
+</html>
